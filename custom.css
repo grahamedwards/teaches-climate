@@ -1,0 +1,52 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+}
+
+.reveal h1{font-size:3ex;}
+.reveal h2{font-size:2.5ex;}
+.reveal h3{font-size:2ex;}
+.reveal h4{font-size:1.5ex}
+.reveal body{font-size:1ex}
+.reveal p{font-size: 1ex}
+
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: left;
+	font-size: 1ex;
+}
+
+.full {
+    height:100%;
+    width:100%;  
+}
+
+.multiCol {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    text-align: left;
+}
+
+.col {
+  display: table-cell;
+  vertical-align: top;
+  width: 50%;
+  padding: 2% 7% 2% 3%;
+        /* &:first-of-type { padding-left: 0; } */
+}
+
+.col2 {
+  display: table-cell;
+  vertical-align: center;
+  width: 50%;
+  padding: 15% 7% 2% 3%;
+        /* &:first-of-type { padding-left: 0; } */
+}
