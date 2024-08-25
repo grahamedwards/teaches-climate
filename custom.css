@@ -6,13 +6,15 @@
 .reveal h6 {
   text-transform: none;
 }
+ 
 
-.reveal h1{font-size:3ex;}
-.reveal h2{font-size:2.5ex;}
-.reveal h3{font-size:2ex;}
-.reveal h4{font-size:1.5ex}
-.reveal body{font-size:1ex}
-.reveal p{font-size: 1ex}
+
+.reveal h1{font-size:50px;}
+.reveal h2{font-size:45px;text-align:left;}
+.reveal h3{font-size:40px;text-align:left;}
+.reveal h4{font-size:35px;text-align:left;}
+.reveal body{font-size:30px;text-align:left;}
+.reveal p{font-size: 30px;text-align:left;}
 
 .footer{
 	position: fixed;
@@ -43,10 +45,12 @@
         /* &:first-of-type { padding-left: 0; } */
 }
 
-.col2 {
+.colc {
   display: table-cell;
   vertical-align: center;
   width: 50%;
   padding: 15% 7% 2% 3%;
         /* &:first-of-type { padding-left: 0; } */
 }
+
+
