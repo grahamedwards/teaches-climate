@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="229.91191mm"
+   height="38.35817mm"
+   viewBox="0 0 191.59326 31.965141"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="reservoir-flux-fill.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.75232023"
+     inkscape:cx="388.13259"
+     inkscape:cy="74.436387"
+     inkscape:window-width="1512"
+     inkscape:window-height="865"
+     inkscape:window-x="0"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="37.376492"
+       y="223.72807"
+       width="111.20628"
+       height="68.827271"
+       id="rect3" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path2-8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.7297965,-64.585294)">
+    <path
+       style="fill:none;stroke:#808080;stroke-width:4.1666668;stroke-dasharray:none;marker-end:url(#ArrowWide)"
+       d="M 9.8891965,80.567865 H 54.681439"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1.00000003;stroke-dasharray:none;marker-end:url(#ArrowWide-4)"
+       d="m 154.61659,80.567865 h 44.79225"
+       id="path1-9" />
+    <rect
+       style="fill:#808080;stroke-width:0.999999;stroke-dasharray:none"
+       id="rect1"
+       width="83.762192"
+       height="8.8201141"
+       x="63.725021"
+       y="86.730316" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.00002;stroke-dasharray:none"
+       id="rect2"
+       width="83.762199"
+       height="29.965122"
+       x="63.725021"
+       y="65.585304" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       x="85.274536"
+       y="83.60231"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#000000;stroke:none;stroke-width:2"
+         x="85.274536"
+         y="83.60231">Reservoir</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;stroke:none;stroke-width:7.55906;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:2;stroke-dasharray:none"
+       x="9.8891964"
+       y="73.860756"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:2"
+         x="9.8891964"
+         y="73.860756">Flux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:2;stroke-dasharray:none"
+       x="154.61659"
+       y="73.860756"
+       id="text4-5"><tspan
+         sodipodi:role="line"
+         id="tspan4-3"
+         style="stroke-width:2"
+         x="154.61659"
+         y="73.860756">Flux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:2;stroke-dasharray:none"
+       x="9.1634226"
+       y="93.430672"
+       id="text4-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-5"
+         style="stroke-width:2"
+         x="9.1634226"
+         y="93.430672">Input</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:2;stroke-dasharray:none"
+       x="154.05022"
+       y="93.430672"
+       id="text4-5-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-5-5"
+         style="stroke-width:2"
+         x="154.05022"
+         y="93.430672">Output</tspan></text>
+  </g>
+</svg>

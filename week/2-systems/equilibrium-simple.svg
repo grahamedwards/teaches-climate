@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160.2301mm"
+   height="170mm"
+   viewBox="0 0 160.2301 170"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="equilibrium-simple.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.67866509"
+     inkscape:cx="289.53898"
+     inkscape:cy="354.37214"
+     inkscape:window-width="1240"
+     inkscape:window-height="766"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.097969,-18.050484)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       id="path1"
+       sodipodi:type="arc"
+       sodipodi:cx="96.21302"
+       sodipodi:cy="38.75906"
+       sodipodi:rx="79.115051"
+       sodipodi:ry="146.02641"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 175.32807,38.75906 a 79.115051,146.02641 0 0 1 -39.55753,126.46258 79.115051,146.02641 0 0 1 -79.115047,0 A 79.115051,146.02641 0 0 1 17.097969,38.75906" />
+    <circle
+       style="fill:#666666;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:normal"
+       id="path2"
+       cx="158.87521"
+       cy="87.971954"
+       r="11.824614" />
+    <circle
+       style="fill:#666666;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:normal"
+       id="path2-7"
+       cx="96.21302"
+       cy="172.96085"
+       r="11.824614" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#666666;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:normal"
+       x="72.284752"
+       y="154.50601"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#000000;stroke:none;stroke-width:2"
+         x="72.284752"
+         y="154.50601">Equilibrium</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#666666;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:normal"
+       x="104.30547"
+       y="53.873177"
+       id="text2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         style="fill:#000000;stroke:none;stroke-width:2"
+         x="104.30547"
+         y="53.873177">Non-equilibrium</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:2"
+         x="104.30547"
+         y="64.456512"
+         id="tspan3">Disequilibrium</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:2"
+         x="104.30547"
+         y="75.039856"
+         id="tspan4">&quot;Kinetic&quot;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:4,2;marker-end:url(#ArrowWide);paint-order:normal;stroke-dashoffset:0"
+       d="m 152.57023,103.1743 c -2.50212,14.48947 -9.84278,27.43547 -10.92951,29.14805"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
