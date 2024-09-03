@@ -78,13 +78,15 @@
 }
 .twocol > div {
   flex: 50%; 
+  flex-direction: row;
   margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
 }
 
 .flex-image {
   padding: 10px;
-  align-items: center;
-  justify-content: center;
+
 }
 
 .flex-image img{
