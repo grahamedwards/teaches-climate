@@ -77,7 +77,7 @@
   justify-content: center;
 }
 .twocol > div {
-  flex: 50%; 
+  flex: 48%; 
   flex-direction: row;
   margin-bottom: 10px;
   align-items: center;
@@ -85,8 +85,28 @@
 }
 .twocol > div > img {
   object-fit: contain;
-  max-width: 100%;
   max-height: 100%;
+  max-width: 100%;
+}
+
+.threecol {
+  display:flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+.threecol > div {
+  flex: 30%; 
+  padding:0px 10px 0px 10px;
+  flex-direction: row;
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.threecol > div > img {
+  object-fit: contain;
+  max-height: 100%;
+  max-width: 100%;
 }
 
 
