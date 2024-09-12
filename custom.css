@@ -118,3 +118,46 @@
 .deftab table td{
   word-wrap: normal;
 }
+
+.tworow {
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.tworow > div {
+  flex: 2 1 auto ; 
+  padding:0px 10px 0px 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.tworow > div > img {
+  object-fit: contain;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+
+.threerow {
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.threerow > div {
+  flex: auto ; 
+  padding:0px 0px 0px 0px;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  min-height: 0;
+}
+
+.threerow > div > img {
+  object-fit: contain;
+  max-height: 100%;
+  max-width: 100%;
+}
