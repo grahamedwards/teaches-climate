@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Week # &ndash; Topic </title>
+		
 
 		<link rel="stylesheet" href="../../revealjs/dist/reset.css">
 		<link rel="stylesheet" href="../../revealjs/dist/reveal.css">
@@ -14,55 +14,62 @@
 		<link rel="stylesheet" href="../../revealjs/plugin/highlight/monokai.css">
 		<link rel="stylesheet" href="../../custom.css">
 		<style type="text/css">:root {--r-main-font-size: 30px;}</style>
+		<script type="text/javascript">
+			var thisweek = 6;
+		  </script>
+		  <title>Week 6 &ndash; Climate &amp; Weather  </title>
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section data-background-image="" data-background-opacity="0.7">
+				<section data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg" data-background-opacity="0.7">
 
-					<h1 class="r-fit-text">Weekly topic</h1>
-					<h1>Week #</h1>
+					<h1 class="r-fit-text">
+						Week Title
+					</h1>
+					<h1>Week <script type="text/javascript">document.write(thisweek)</script></h1>
 					<h3 style="text-align: center;">GEOS 3410</h3>
 
 				</section>
 
 				<section>
-					<h1>Week # Schedule</h1>
+					<h1>Week <script type="text/javascript">document.write(thisweek)</script> Schedule</h1>
 
-					<div class="multiCol">
+					<div class="twocol" style="align-items: start; justify-content: left;">
 
-						<div class="col">					
-							<h2>Tuesday #</h2>
-							<ol>
-								<li> </li>
-							</ol>
+						<div>					
+							<h3>Tuesday</h3>
+							<ul>
+							<li>Stuff</li>
+							</ul>
 						</div>
 
-						<div class="col">
-							<h2>Thursday # </h2>
-							<ol>					
-								<li> </li>
-							</ol>
+						<div>
+							<h3>Thursday</h3>
+							<ul>					
+								<li>Other stuff</li>
+							</ul>
 						</div>
 					</div>
 
 					<hr>
 
-					<h2>Outisde of class</h2>
+					<h3>Outside of class</h3>
 					<ul>
-						<li></li>
-						<li>Something on <a = href="https://canvas.trinity.edu">Canvas</a></li>
+						<li>Week <script type="text/javascript">document.write(thisweek)</script> reading</li>
 					</ul>
 
 				</section>
 
 
+				
 				<section>
-					<h1>Next Week (#)</h1>
+					<h1>Next Week (<script type="text/javascript">document.write(thisweek+1)</script>)</h1>
 					<ul>
-						<li>Something on <a href="https://canvas.trinity.edu/courses/5520">Canvas</a></li>
+						<li>Week <script type="text/javascript">document.write(thisweek+1)</script> reading </li>
 						<li>Tuesday: </li>
 						<li>Thursday: </li>
+						<li>Something on <a href="https://canvas.trinity.edu/courses/5520">Canvas</a></li>
 					</ul>
 					
 				</section>
@@ -74,6 +81,7 @@
 		<script src="../../revealjs/plugin/notes/notes.js"></script>
 		<script src="../../revealjs/plugin/markdown/markdown.js"></script>
 		<script src="../../revealjs/plugin/highlight/highlight.js"></script>
+		<script src="../../revealjs/plugin/math/math.js"></script>
 		<script>
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
@@ -82,9 +90,12 @@
 				hash: true,
 				width: 960,
 				height: 700,
+				autoPlayMedia: true,
 				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX,  ]
 			});
+			Reveal.configure({ pdfSeparateFragments: false });
 		</script>
 	</body>
 </html>
+

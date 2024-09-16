@@ -62,14 +62,6 @@
 .microbe {list-style-type: "🦠 ";}
 .ice {list-style-type: "🧊";}
 
-
-.singlerow {
-  display:flex;
-  flex-flow: nowrap;
-  align-items: center;
-  justify-content: center;
-}
-
 .twocol {
   display:flex;
   flex-flow: row wrap;
@@ -77,16 +69,16 @@
   justify-content: center;
 }
 .twocol > div {
-  flex: 48%; 
+  flex: 45%; 
   flex-direction: row;
+  padding:0px 10px 0px 10px;
   margin-bottom: 10px;
   align-items: center;
   justify-content: center;
 }
 .twocol > div > img {
   object-fit: contain;
-  max-height: 100%;
-  max-width: 100%;
+  min-height: 0px;
 }
 
 .threecol {
@@ -107,6 +99,7 @@
   object-fit: contain;
   max-height: 100%;
   max-width: 100%;
+  min-width:0;
 }
 
 
@@ -121,22 +114,26 @@
 
 .tworow {
   display:flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  flex-flow: column nowrap;
   align-items: center;
   justify-content: center;
+  flex-basis:1;
+  min-height:0px;
 }
 .tworow > div {
-  flex: 2 1 auto ; 
-  padding:0px 10px 0px 10px;
+  flex: 1 0 auto;
   align-items: center;
   justify-content: center;
+  min-height:0px;
 }
 
 .tworow > div > img {
   object-fit: contain;
   max-height: 100%;
   max-width: 100%;
+  height:auto;
+  min-height:0px;
+
 }
 
 
