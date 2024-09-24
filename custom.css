@@ -25,34 +25,29 @@
 	font-size: 1ex;
 }
 
-
-.full {
-    height:100%;
-    width:100%;  
+.lfoot{
+	position: static;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: left;
+	font-size: 1ex;
 }
-
-.multiCol {
-    display: table;
-    table-layout: fixed;
-    width: 100%;
-    text-align: left;
+.rfoot{
+	position: static;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: right;
+	font-size: 1ex;
 }
-
-.col {
-  display: table-cell;
-  vertical-align: top;
-  width: 50%;
-  padding: 2% 7% 2% 3%;
-        /* &:first-of-type { padding-left: 0; } */
-}
-
-.colc {
-  display: table-cell;
-  vertical-align: middle;
-  text-align: center;
-  width: 50%;
-  padding: 15% 7% 2% 3%;
-        /* &:first-of-type { padding-left: 0; } */
+.cfoot{
+	position: static;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1ex;
 }
 
 
@@ -62,99 +57,49 @@
 .microbe {list-style-type: "🦠 ";}
 .ice {list-style-type: "🧊";}
 
-.twocol {
+.cols {
   display:flex;
   flex-flow: row wrap;
   align-items: center;
   justify-content: center;
 }
-.twocol > div {
-  flex: 45%; 
+.cols > div {
+  flex: 1; 
   flex-direction: row;
   padding:0px 10px 0px 10px;
-  margin-bottom: 10px;
+  /*margin-bottom: 10px;*/
   align-items: center;
   justify-content: center;
 }
-.twocol > div > img {
+.cols > div > img {
   object-fit: contain;
   min-height: 0px;
 }
 
-.threecol {
+
+.rows{
   display:flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   align-items: center;
   justify-content: center;
 }
-.threecol > div {
-  flex: 30%; 
-  padding:0px 10px 0px 10px;
-  flex-direction: row;
-  margin-bottom: 10px;
+
+.rows > div {
+  flex: 1;
+  padding:10px 0px 10px 0px;
   align-items: center;
   justify-content: center;
 }
-.threecol > div > img {
+
+.rows > div > img {
   object-fit: contain;
-  max-height: 100%;
-  max-width: 100%;
-  min-width:0;
-}
-
-
-.deftab table{
-  table-layout: auto; 
-  width: 100%;
-}
-
-.deftab table td{
-  word-wrap: normal;
-}
-
-.tworow {
-  display:flex;
-  flex-flow: column nowrap;
-  align-items: center;
-  justify-content: center;
-  flex-basis:1;
-  min-height:0px;
-}
-.tworow > div {
-  flex: 1 0 auto;
-  align-items: center;
-  justify-content: center;
   min-height:0px;
 }
 
-.tworow > div > img {
-  object-fit: contain;
-  max-height: 100%;
-  max-width: 100%;
-  height:auto;
-  min-height:0px;
-
-}
 
 
-.threerow {
-  display:flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-}
-.threerow > div {
-  flex: auto ; 
-  padding:0px 0px 0px 0px;
-  align-items: center;
-  justify-content: center;
-  min-width: 0;
-  min-height: 0;
-}
 
-.threerow > div > img {
-  object-fit: contain;
-  max-height: 100%;
-  max-width: 100%;
+.full {
+  height:100%;
+  width:100%;  
 }
