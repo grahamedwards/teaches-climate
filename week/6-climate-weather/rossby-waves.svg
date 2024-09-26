@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1001.6428 250"
+   width="1001.6428"
+   height="250"
+   xml:space="preserve"
+   id="svg24"
+   sodipodi:docname="rossby-waves.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs24" /><sodipodi:namedview
+   id="namedview24"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="0.61160665"
+   inkscape:cx="515.03691"
+   inkscape:cy="453.72299"
+   inkscape:window-width="1392"
+   inkscape:window-height="1212"
+   inkscape:window-x="2342"
+   inkscape:window-y="62"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg24" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{clip-path:url(#XMLID_5_);fill:none;stroke:#808080;stroke-dasharray:1,1;}
+	.st1{clip-path:url(#XMLID_5_);fill:#FADCF3;}
+	.st2{clip-path:url(#XMLID_5_);fill:#BACCFD;}
+	.st3{clip-path:url(#XMLID_5_);fill:#fff;}
+	.st4{clip-path:url(#XMLID_5_);}
+	.st5{fill:none;stroke:#808080;stroke-dasharray:1,1;}
+	.st6{fill:#1D71B8;}
+	.st7{clip-path:url(#XMLID_6_);fill:none;stroke:#808080;stroke-dasharray:1,1;}
+	.st8{clip-path:url(#XMLID_6_);fill:#FADCF3;}
+	.st9{clip-path:url(#XMLID_6_);fill:#BACCFD;}
+	.st10{clip-path:url(#XMLID_6_);fill:#fff;}
+	.st11{clip-path:url(#XMLID_6_);}
+	.st12{clip-path:url(#XMLID_7_);}
+	.st13{clip-path:url(#XMLID_7_);fill:none;stroke:#808080;stroke-dasharray:1,1;}
+	.st14{clip-path:url(#XMLID_7_);fill:#FADCF3;}
+	.st15{clip-path:url(#XMLID_7_);fill:#BACCFD;}
+	.st16{clip-path:url(#XMLID_7_);fill:#fff;}
+	.st17{font-family:'Liberation Sans','Arial';}
+	.st18{font-size:34px;}
+</style>
+<g
+   id="diagram"
+   transform="translate(-5.45,-2.35)">
+	<g
+   id="right">
+		<g
+   id="g8">
+			<defs
+   id="defs1">
+				<path
+   id="XMLID_3_"
+   d="M 695.7,151.8 C 695.7,69 770.6,2.6 853.5,2.6 936.4,2.6 1005,71 1006.8,153.9 1009.2,258.5 910.1,346.2 854.5,325 726.6,276.2 695.7,241.7 695.7,151.8 Z" />
+			</defs>
+			<use
+   xlink:href="#XMLID_3_"
+   style="overflow:visible;fill:#fedda7"
+   id="use1" />
+			<clipPath
+   id="XMLID_5_">
+				<use
+   xlink:href="#XMLID_3_"
+   style="overflow:visible"
+   id="use2" />
+			</clipPath>
+			<path
+   class="st0"
+   d="m 709.9,91.1 c 3.5,27.8 37.9,79.9 141.4,81 94.7,1 139.3,-50.6 140.2,-82.7"
+   clip-path="url(#XMLID_5_)"
+   id="path2" />
+			<path
+   class="st0"
+   d="m 695.7,161.4 c -1.8,40.3 70.2,83.4 155.6,83.4 100.2,0 159,-50.4 155.5,-82"
+   clip-path="url(#XMLID_5_)"
+   id="path3" />
+			<path
+   class="st1"
+   d="m 741.8,35 c -21.3,37.9 -42.2,126 34.6,74.2 56.3,-50.4 60.1,28.6 50.2,31.1 -15.8,4.1 -68.4,64.9 6,66.9 12.1,0.3 46.5,-9.2 44.2,-36.4 -1.6,-18.3 -14.3,-57.4 0.6,-70.1 34.5,-29.2 65.1,-7.2 76.8,23.3 36.3,2.5 33.1,-59.9 15.7,-70.4 -11.6,-7 -8.1,-16.4 -10.6,-20.8 -2.5,-4.4 -22,-31.4 -68.3,-34.7 -46.3,-3.2 -95.5,-21.8 -149.1,36"
+   clip-path="url(#XMLID_5_)"
+   id="path4"
+   style="fill:#f6b4e5;fill-opacity:1" />
+			<path
+   class="st2"
+   d="m 742.4,39.1 c -2.8,2.8 -2.2,10.3 -1.7,14.3 1,8 -4.8,22.9 -7,46.8 -1.9,20.7 13.5,9.6 38.1,-2.5 13,-6.4 26.9,-21.1 45.3,-15.3 5.8,1.8 29.5,13.3 26.9,44.2 -0.8,10 -4.6,19.8 -10.7,23.6 -22.9,14.5 -31.2,28.3 -23.2,39.8 2.6,3.8 34.1,9.2 51.6,-5.7 11,-9.4 -8.8,-57 -2.9,-73.9 9.2,-26.1 59.2,-67.5 93.9,-2.5 2.4,4.4 13,10 17.8,-14.3 4.1,-21 -8.7,-45 -10.2,-46.5 -1.5,-1.5 5,-12.8 7,-12.8 2,0 -7.8,-6.3 -6.8,-7.3 1,-1 -60.1,-58.9 -105.2,-53.9 -45.1,5 -93.7,19.1 -102.3,35.6 -8.6,16.5 -10.6,30.4 -10.6,30.4 z"
+   clip-path="url(#XMLID_5_)"
+   id="path5" />
+			<polygon
+   class="st3"
+   points="954.3,124 938.9,86.7 922.8,98.6 "
+   clip-path="url(#XMLID_5_)"
+   id="polygon5"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<polygon
+   class="st3"
+   points="806.7,214.1 842.3,202.4 806.7,191.8 "
+   clip-path="url(#XMLID_5_)"
+   id="polygon6"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<polygon
+   class="st3"
+   points="786.2,99.8 750.2,105.3 759.5,125.3 "
+   clip-path="url(#XMLID_5_)"
+   id="polygon7"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<g
+   class="st4"
+   clip-path="url(#XMLID_5_)"
+   id="g7">
+				<path
+   class="st5"
+   d="m 950.2,37.8 c 0,44.9 -58.4,57.8 -98.9,57.8 -40.5,0 -99.3,-12.2 -97.9,-57.9 1.2,-40.5 57.4,-88.8 97.9,-88.8 40.5,0 98.9,48.4 98.9,88.9 z"
+   id="path7" />
+			</g>
+			<use
+   xlink:href="#XMLID_3_"
+   style="overflow:visible;fill:none;stroke:#1d1d1b;stroke-width:0.5"
+   id="use7" />
+		</g>
+		<ellipse
+   class="st6"
+   cx="852"
+   cy="22.9"
+   rx="5.8000002"
+   ry="4"
+   id="ellipse8" />
+	</g>
+	<g
+   id="centre">
+		<g
+   id="g15">
+			<defs
+   id="defs8">
+				<path
+   id="XMLID_2_"
+   d="M 350.7,151.8 C 350.7,69 425.6,2.6 508.4,2.6 591.2,2.6 659.9,71 661.8,153.9 664.2,258.5 565.1,346.2 509.5,325 381.5,276.2 350.7,241.7 350.7,151.8 Z" />
+			</defs>
+			<use
+   xlink:href="#XMLID_2_"
+   style="overflow:visible;fill:#fedda7"
+   id="use8" />
+			<clipPath
+   id="XMLID_6_">
+				<use
+   xlink:href="#XMLID_2_"
+   style="overflow:visible"
+   id="use9" />
+			</clipPath>
+			<path
+   class="st7"
+   d="m 364.9,91.1 c 3.5,27.8 37.9,79.9 141.4,81 94.7,1 139.3,-50.6 140.2,-82.7"
+   clip-path="url(#XMLID_6_)"
+   id="path9" />
+			<path
+   class="st7"
+   d="m 350.7,161.4 c -1.8,40.3 70.2,83.4 155.6,83.4 100.2,0 159,-50.4 155.5,-82"
+   clip-path="url(#XMLID_6_)"
+   id="path10" />
+			<path
+   class="st8"
+   d="m 396.8,35 c -21.3,37.9 -34.4,51.5 30.8,63.4 8.7,1.6 15,17.1 20.2,42.7 6,29.8 48.4,23.2 84.7,-20.4 9.4,-11.3 18.6,-30.2 34.7,-35.2 10.4,-3.2 9.7,13.9 56.4,23 C 661.9,78 633.6,68.6 625,58.3 616.3,47.9 616.9,37.3 614.4,33 611.9,28.7 592.3,1.4 546,-1.9 499.7,-5.1 450.5,-23.7 396.9,34.1"
+   clip-path="url(#XMLID_6_)"
+   id="path11"
+   style="fill:#f6b4e5;fill-opacity:1" />
+			<path
+   class="st9"
+   d="m 397.4,39.1 c -2.8,2.8 0.4,14.9 -0.8,18.8 -1.2,3.8 -23.6,20.3 29.7,25.3 23.3,2.2 25.8,33.2 33.4,58.2 1.8,5.8 24.7,11.3 59.1,-20.7 17.6,-16.3 23.4,-43.4 39.6,-47.2 16.8,-4 47.7,20 52.4,21.6 9.8,3.3 31.8,-2.8 12.2,-32.3 -15,-22.5 -15.2,-22.6 -16.7,-24.1 -1.5,-1.5 8.2,-10.7 9.2,-11.7 1,-1 -60.1,-58.9 -105.2,-53.9 -45.1,5 -93.7,19.1 -102.3,35.6 -8.6,16.5 -10.6,30.4 -10.6,30.4 z"
+   clip-path="url(#XMLID_6_)"
+   id="path12" />
+			<polygon
+   class="st10"
+   points="616.6,105.7 587.6,82.9 579.1,102.3 "
+   clip-path="url(#XMLID_6_)"
+   id="polygon12"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<polygon
+   class="st10"
+   points="506.3,156.9 527.9,126.5 493.2,139.5 "
+   clip-path="url(#XMLID_6_)"
+   id="polygon13"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<polygon
+   class="st10"
+   points="425,99.8 393.6,77.4 387.2,98.4 "
+   clip-path="url(#XMLID_6_)"
+   id="polygon14"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<g
+   class="st11"
+   clip-path="url(#XMLID_6_)"
+   id="g14">
+				<path
+   class="st5"
+   d="m 605.2,37.8 c 0,44.9 -58.4,57.8 -98.9,57.8 -40.5,0 -99.3,-12.2 -97.9,-57.9 1.2,-40.5 57.4,-88.8 97.9,-88.8 40.5,0 98.9,48.4 98.9,88.9 z"
+   id="path14" />
+			</g>
+			<use
+   xlink:href="#XMLID_2_"
+   style="overflow:visible;fill:none;stroke:#1d1d1b;stroke-width:0.5"
+   id="use14" />
+		</g>
+		<ellipse
+   class="st6"
+   cx="507"
+   cy="22.9"
+   rx="5.8000002"
+   ry="4"
+   id="ellipse15" />
+	</g>
+	<g
+   id="left">
+		<g
+   id="g21">
+			<defs
+   id="defs15">
+				<path
+   id="XMLID_1_"
+   d="M 5.7,151.8 C 5.7,69 80.6,2.6 163.4,2.6 246.2,2.6 314.9,71 316.8,153.9 319.2,258.5 220.1,346.2 164.5,325 36.5,276.2 5.7,241.7 5.7,151.8 Z" />
+			</defs>
+			<use
+   xlink:href="#XMLID_1_"
+   style="overflow:visible;fill:#fedda7"
+   id="use15" />
+			<clipPath
+   id="XMLID_7_">
+				<use
+   xlink:href="#XMLID_1_"
+   style="overflow:visible"
+   id="use16" />
+			</clipPath>
+
+			<path
+   class="st13"
+   d="m 19.9,91.1 c 3.5,27.8 37.9,79.9 141.4,81 94.7,1 139.3,-50.6 140.2,-82.7"
+   clip-path="url(#XMLID_7_)"
+   id="path16" />
+			<path
+   class="st13"
+   d="m 5.7,161.4 c -1.8,40.3 70.2,83.4 155.6,83.4 100.2,0 159,-50.4 155.5,-82"
+   clip-path="url(#XMLID_7_)"
+   id="path17" />
+			<path
+   class="st14"
+   d="M 51.8,35 C 30.5,72.8 24.5,84.1 80,100.9 109,132.6 144.9,147 182.1,117.8 200.2,103.6 204.2,100.1 259,103.7 283.5,84.2 282.9,72.8 279.9,58.3 277.2,45 271.8,37.3 269.3,33 266.8,28.7 247.2,1.4 201,-1.9 154.8,-5.2 105.5,-23.7 51.9,34.1"
+   clip-path="url(#XMLID_7_)"
+   id="path18"
+   style="fill:#f6b4e5;fill-opacity:1" />
+			<path
+   class="st15"
+   d="m 52.4,39.1 c -2.8,2.8 2.7,9.4 1.5,13.3 -1.2,3.8 -15.4,26.5 15.8,33.2 31.1,6.6 30.8,25.8 46.1,31.4 5.7,2.1 32.4,7.4 53.6,-3.8 21.2,-11.2 19,-17.2 30.8,-20.8 11.8,-3.6 43.2,-2.5 48.2,-2.5 5,0 29.8,-12.2 17.4,-33.6 -12.4,-21.4 -6.3,-11.9 -7.8,-13.4 -1.5,-1.5 2.4,-5.4 4.5,-5.4 2.1,0 7,-9.4 8,-10.4 1,-1 -60.1,-58.9 -105.2,-53.9 -45.1,5 -93.7,19 -102.3,35.5 -8.6,16.5 -10.6,30.4 -10.6,30.4 z"
+   clip-path="url(#XMLID_7_)"
+   id="path19" />
+			<polygon
+   class="st16"
+   points="277.4,84.3 241,94.5 253.4,112.5 "
+   clip-path="url(#XMLID_7_)"
+   id="polygon19"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<polygon
+   class="st16"
+   points="116.7,145.5 150.6,135.2 116.7,124.9 "
+   clip-path="url(#XMLID_7_)"
+   id="polygon20"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<polygon
+   class="st16"
+   points="80,99.8 50.9,77.4 44.4,98.4 "
+   clip-path="url(#XMLID_7_)"
+   id="polygon21"
+   style="fill:#d61eaa;fill-opacity:1" />
+			<use
+   xlink:href="#XMLID_1_"
+   style="overflow:visible;fill:none;stroke:#1d1d1b;stroke-width:0.5"
+   id="use21" />
+		</g>
+		<ellipse
+   class="st6"
+   cx="162"
+   cy="22.9"
+   rx="5.8000002"
+   ry="4"
+   id="ellipse21" />
+	</g>			<g
+   class="st12"
+   clip-path="url(#XMLID_7_)"
+   id="g22">
+				<path
+   class="st5"
+   d="m 260.1,37.8 c 0,44.9 -58.4,57.8 -98.9,57.8 -40.5,0 -99.2,-12.1 -97.9,-57.9 1.2,-40.5 57.4,-88.8 97.9,-88.8 40.5,0 98.9,48.4 98.9,88.9 z"
+   id="path21" />
+			</g>
+</g>
+
+<text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#d69f26;fill-opacity:0.992157;stroke:#000000;stroke-width:5.33333"
+   x="210.60515"
+   y="67.608002"
+   id="text24"><tspan
+     sodipodi:role="line"
+     id="tspan24"
+     x="210.60515"
+     y="67.608002"
+     style="fill:#000000;stroke:none">Cold air</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#d69f26;fill-opacity:0.992157;stroke:#000000;stroke-width:5.33333"
+   x="211.59799"
+   y="194.60574"
+   id="text24-0"><tspan
+     sodipodi:role="line"
+     id="tspan24-2"
+     x="211.59799"
+     y="194.60574"
+     style="fill:#000000;stroke:none">Warm air</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#d69f26;fill-opacity:0.992157;stroke:#000000;stroke-width:5.33333"
+   x="212.00595"
+   y="126.97201"
+   id="text24-0-0"><tspan
+     sodipodi:role="line"
+     id="tspan24-2-0"
+     x="212.00595"
+     y="126.97201"
+     style="fill:#000000;stroke:none">Jet stream</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="570.5495"
+   y="124.15"
+   id="text25"><tspan
+     sodipodi:role="line"
+     id="tspan25"
+     x="570.5495"
+     y="124.15"
+     style="fill:#000000">H</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="804.67889"
+   y="134.278"
+   id="text25-1"><tspan
+     sodipodi:role="line"
+     id="tspan25-1"
+     x="804.67889"
+     y="134.278"
+     style="fill:#000000">H</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="911.12598"
+   y="138.306"
+   id="text25-18"><tspan
+     sodipodi:role="line"
+     id="tspan25-7"
+     x="911.12598"
+     y="138.306"
+     style="fill:#000000">H</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="418.04282"
+   y="129.49287"
+   id="text25-6"><tspan
+     sodipodi:role="line"
+     id="tspan25-9"
+     x="418.04282"
+     y="129.49287"
+     style="fill:#000000">H</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="484.08997"
+   y="129.49287"
+   id="text25-3"><tspan
+     sodipodi:role="line"
+     id="tspan25-5"
+     x="484.08997"
+     y="129.49287"
+     style="fill:#000000">L</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="618.75"
+   y="87.206001"
+   id="text25-3-1"><tspan
+     sodipodi:role="line"
+     id="tspan25-5-8"
+     x="618.75"
+     y="87.206001"
+     style="fill:#000000">L</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="839.92725"
+   y="181.59183"
+   id="text25-3-2"><tspan
+     sodipodi:role="line"
+     id="tspan25-5-2"
+     x="839.92725"
+     y="181.59183"
+     style="fill:#000000">L</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="751.70996"
+   y="95.629982"
+   id="text25-3-2-2"><tspan
+     sodipodi:role="line"
+     id="tspan25-5-2-2"
+     x="751.70996"
+     y="95.629982"
+     style="fill:#000000">L</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:500;font-size:32px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:end;text-anchor:end;fill:#f6b4e5;fill-opacity:1;stroke:none;stroke-width:5.33333"
+   x="958.84998"
+   y="93.750259"
+   id="text25-3-2-1"><tspan
+     sodipodi:role="line"
+     id="tspan25-5-2-5"
+     x="958.84998"
+     y="93.750259"
+     style="fill:#000000">L</tspan></text></svg>
