@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg132"
+   width="146.25867"
+   height="146.25867"
+   viewBox="0 0 146.25867 146.25867"
+   sodipodi:docname="oxygen-18.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs136">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath156">
+      <path
+         d="M 0,109.694 H 109.694 V 0 H 0 Z"
+         id="path154" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath160">
+      <path
+         d="M 109.694,54.847 C 109.694,24.556 85.138,0 54.847,0 24.556,0 0,24.556 0,54.847 c 0,30.291 24.556,54.847 54.847,54.847 30.291,0 54.847,-24.556 54.847,-54.847"
+         id="path158" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath164">
+      <path
+         d="M -32768,32767 H 32767 V -32768 H -32768 Z"
+         id="path162" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(54.847031,0,0,-54.847031,54.847031,54.847031)"
+       spreadMethod="pad"
+       id="radialGradient170">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop166" />
+      <stop
+         style="stop-opacity:0;stop-color:#ffffff"
+         offset="1"
+         id="stop168" />
+    </radialGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask172">
+      <g
+         id="g182">
+        <g
+           clip-path="url(#clipPath164)"
+           id="g180">
+          <g
+             id="g178">
+            <g
+               id="g176">
+              <path
+                 d="M -32768,32767 H 32767 V -32768 H -32768 Z"
+                 style="fill:url(#radialGradient170);stroke:none"
+                 id="path174" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </mask>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(54.847031,0,0,-54.847031,54.847031,54.847034)"
+       spreadMethod="pad"
+       id="radialGradient188">
+      <stop
+         style="stop-opacity:1;stop-color:#ffca00"
+         offset="0"
+         id="stop184" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop186" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath895">
+      <g
+         id="g901"
+         style="stroke-width:1">
+        <g
+           id="g899"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path897"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath925">
+      <g
+         id="g931"
+         style="stroke-width:1">
+        <g
+           id="g929"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path927"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath955">
+      <g
+         id="g961"
+         style="stroke-width:1">
+        <g
+           id="g959"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path957"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath985">
+      <g
+         id="g991"
+         style="stroke-width:1">
+        <g
+           id="g989"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path987"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1015">
+      <g
+         id="g1021"
+         style="stroke-width:1">
+        <g
+           id="g1019"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1017"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1045">
+      <g
+         id="g1051"
+         style="stroke-width:1">
+        <g
+           id="g1049"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1047"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1075">
+      <g
+         id="g1081"
+         style="stroke-width:1">
+        <g
+           id="g1079"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1077"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1090">
+      <g
+         id="g1096"
+         style="stroke-width:1">
+        <g
+           id="g1094"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1092"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1105">
+      <g
+         id="g1111"
+         style="stroke-width:1">
+        <g
+           id="g1109"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1107"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview134"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="7.7286903"
+     inkscape:cx="83.131808"
+     inkscape:cy="78.150369"
+     inkscape:window-width="1384"
+     inkscape:window-height="847"
+     inkscape:window-x="56"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g140">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page138"
+       width="146.25867"
+       height="146.25867"
+       inkscape:export-filename="oxygen-18.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g140"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,146.25867)">
+    <path
+       d="M 109.694,54.847003 C 109.694,24.556003 85.138001,2.7491048e-6 54.847001,2.7491048e-6 24.556001,2.7491048e-6 1.4932453e-6,24.556003 1.4932453e-6,54.847003 1.4932453e-6,85.138003 24.556001,109.694 54.847001,109.694 c 30.291,0 54.846999,-24.555997 54.846999,-54.846997"
+       style="fill:url(#radialGradient188);stroke:none"
+       id="path192"
+       inkscape:label="electron cloud"
+       sodipodi:insensitive="true" />
+    <g
+       id="g2500-4"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,52.830582,28.688319)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210-2"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5-1"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4-9"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <path
+       d="m 54.847,50.347005 c 0,-2.917173 -2.365865,-5.281454 -5.284992,-5.281454 -2.919128,0 -5.284993,2.364281 -5.284993,5.281454 0,2.917173 2.365865,5.281453 5.284993,5.281453 2.919127,0 5.284992,-2.36428 5.284992,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234"
+       clip-path="none"
+       inkscape:label="n" />
+    <path
+       d="m 74.358272,60.620976 c 0,-2.917173 -2.365864,-5.281453 -5.284992,-5.281453 -2.919128,0 -5.284992,2.36428 -5.284992,5.281453 0,2.917173 2.365864,5.281453 5.284992,5.281453 2.919128,0 5.284992,-2.36428 5.284992,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-4"
+       clip-path="none"
+       inkscape:label="n" />
+    <path
+       d="m 72.858273,47.084622 c 0,-2.917173 -2.365864,-5.281454 -5.284992,-5.281454 -2.919128,0 -5.284992,2.364281 -5.284992,5.281454 0,2.917173 2.365864,5.281453 5.284992,5.281453 2.919128,0 5.284992,-2.36428 5.284992,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-7"
+       clip-path="none"
+       inkscape:label="n" />
+    <path
+       d="m 50.252354,45.546984 c 0,-2.917173 -2.365865,-5.281453 -5.284992,-5.281453 -2.919128,0 -5.284993,2.36428 -5.284993,5.281453 0,2.917173 2.365865,5.281454 5.284993,5.281454 2.919127,0 5.284992,-2.364281 5.284992,-5.281454"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-5"
+       clip-path="none"
+       inkscape:label="n" />
+    <path
+       d="m 62.234653,44.475805 c 0,-2.917173 -2.365865,-5.281454 -5.284993,-5.281454 -2.919127,0 -5.284992,2.364281 -5.284992,5.281454 0,2.917173 2.365865,5.281453 5.284992,5.281453 2.919128,0 5.284993,-2.36428 5.284993,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-75"
+       clip-path="none"
+       inkscape:label="n" />
+    <path
+       d="m 45.391433,56.840434 c 0,-2.917174 -2.365864,-5.281454 -5.284992,-5.281454 -2.919128,0 -5.284992,2.36428 -5.284992,5.281454 0,2.917173 2.365864,5.281453 5.284992,5.281453 2.919128,0 5.284992,-2.36428 5.284992,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-06"
+       clip-path="none"
+       inkscape:label="n" />
+    <path
+       d="m 61.918311,67.626753 c 0,-2.917174 -2.365865,-5.281454 -5.284992,-5.281454 -2.919128,0 -5.284993,2.36428 -5.284993,5.281454 0,2.917173 2.365865,5.281453 5.284993,5.281453 2.919127,0 5.284992,-2.36428 5.284992,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-0"
+       clip-path="none"
+       inkscape:label="n" />
+    <g
+       id="g2500"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,66.111195,53.425477)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <g
+       id="g2500-4-7"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,43.68244,50.212654)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210-2-5"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5-1-3"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <g
+       id="g2500-4-4"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,45.18244,36.993218)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210-2-8"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5-1-87"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <g
+       id="g2500-4-9-2"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,62.820756,30.346619)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210-2-3-5"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5-1-1-6"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4-9-14-3"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <path
+       d="m 54.847,59.751534 c 0,-2.917173 -2.365865,-5.281453 -5.284992,-5.281453 -2.919128,0 -5.284993,2.36428 -5.284993,5.281453 0,2.917174 2.365865,5.281454 5.284993,5.281454 2.919127,0 5.284992,-2.36428 5.284992,-5.281454"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-8"
+       clip-path="none"
+       inkscape:label="n" />
+    <path
+       d="m 64.976057,54.13016 c 0,-2.917173 -2.365865,-5.281454 -5.284993,-5.281454 -2.919127,0 -5.284992,2.364281 -5.284992,5.281454 0,2.917173 2.365865,5.281453 5.284992,5.281453 2.919128,0 5.284993,-2.36428 5.284993,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3-47"
+       clip-path="none"
+       inkscape:label="n" />
+    <g
+       id="g2500-4-95"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,52.197134,54.337619)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210-2-9"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5-1-0"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4-9-93"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <path
+       d="m 64.025092,60.620976 c 0,-2.917173 -2.365865,-5.281453 -5.284992,-5.281453 -2.919128,0 -5.284992,2.36428 -5.284992,5.281453 0,2.917173 2.365864,5.281453 5.284992,5.281453 2.919127,0 5.284992,-2.36428 5.284992,-5.281453"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999749;stroke-dasharray:none;stroke-opacity:1"
+       id="path234-3"
+       clip-path="none"
+       inkscape:label="n" />
+    <g
+       id="g2500-4-0"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,56.933103,39.131208)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210-2-55"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5-1-6"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4-9-3"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <g
+       id="g2500-4-9"
+       inkscape:label="p+"
+       transform="matrix(0.60399911,0,0,0.60359468,69.285239,41.13605)"
+       style="stroke-width:1.65619">
+      <path
+         d="m 5.7960571,22.7155 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.7500001,3.917 -8.7500001,8.75 0,4.833 3.9170001,8.75 8.7500001,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+         style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.65577;stroke-dasharray:none;stroke-opacity:1"
+         id="path210-2-3"
+         clip-path="none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.65577;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-5.6179428"
+         y="-20.279499"
+         id="text1865-5-1-1"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1863-4-9-14"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.65577"
+           x="-5.6179428"
+           y="-20.279499">+</tspan></text>
+    </g>
+    <g
+       id="g2571"
+       inkscape:label="Atomic name, weight"
+       style="fill:#000000">
+      <text
+         xml:space="preserve"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text282"
+         x="93.060402"
+         y="-92.419701"><tspan
+           sodipodi:role="line"
+           id="tspan280"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+           x="93.060402"
+           y="-92.419701">O</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text286"
+         x="81.494095"
+         y="-99.902679"><tspan
+           x="81.494095"
+           y="-99.902679"
+           id="tspan284"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">18</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text290"
+         x="87.444092"
+         y="-90.241913"><tspan
+           x="87.444092"
+           y="-90.241913"
+           id="tspan288"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">8</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="electrons"
+       transform="matrix(0.80833949,0,0,0.80823732,12.514074,13.096771)"
+       style="stroke-width:1.23718">
+      <g
+         id="g2493-6"
+         inkscape:label="e-"
+         transform="translate(-57.480502,9.9213185)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-8"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="72.095001"
+           y="-25.846001"
+           id="text1865-9-6"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-7"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="72.095001"
+             y="-25.846001">–</tspan></text>
+      </g>
+      <g
+         id="g2493-1"
+         inkscape:label="e-"
+         transform="translate(22.43625,5.6489169)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-84"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="72.095001"
+           y="-25.846001"
+           id="text1865-9-9"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-73"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="72.095001"
+             y="-25.846001">–</tspan></text>
+      </g>
+      <g
+         id="g2493-10"
+         inkscape:label="e-"
+         transform="translate(15.7555,25.82726)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-2"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="72.095001"
+           y="-25.846001"
+           id="text1865-9-3"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-71"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="72.095001"
+             y="-25.846001">–</tspan></text>
+      </g>
+      <g
+         id="g2493-8"
+         inkscape:label="e-"
+         transform="translate(-41.198514,-26.458219)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-9"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="72.095001"
+           y="-25.846001"
+           id="text1865-9-37"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-4"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="72.095001"
+             y="-25.846001">–</tspan></text>
+      </g>
+      <g
+         id="g2493-80"
+         inkscape:label="e-"
+         transform="translate(3.4647051,58.961395)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-4"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="72.095001"
+           y="-25.846001"
+           id="text1865-9-0"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-5"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="72.095001"
+             y="-25.846001">–</tspan></text>
+      </g>
+      <g
+         id="g2493-7"
+         inkscape:label="e-"
+         transform="translate(1.4863079,-18.046349)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 74.115902,33.731325 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-0"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="68.927902"
+           y="-31.698826"
+           id="text1865-9-05"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-6"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="68.927902"
+             y="-31.698826">–</tspan></text>
+      </g>
+      <g
+         id="g2493-78"
+         inkscape:label="e-"
+         transform="translate(-34.754671,67.744593)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-06"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="72.095001"
+           y="-25.846001"
+           id="text1865-9-5"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-734"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="72.095001"
+             y="-25.846001">–</tspan></text>
+      </g>
+      <g
+         id="g2493-3"
+         inkscape:label="e-"
+         transform="translate(-57.480502,41.202663)"
+         style="stroke-width:1.23718">
+        <path
+           d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+           style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.23687;stroke-dasharray:none;stroke-opacity:1"
+           id="path250-04"
+           clip-path="none"
+           inkscape:label="path250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:1.23687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           x="72.095001"
+           y="-25.846001"
+           id="text1865-9-8"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan1863-1-75"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.23687"
+             x="72.095001"
+             y="-25.846001">–</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

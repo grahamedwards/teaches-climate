@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg132"
+   width="146.25867"
+   height="146.25867"
+   viewBox="0 0 146.25867 146.25867"
+   sodipodi:docname="helium-3.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs136">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath156">
+      <path
+         d="M 0,109.694 H 109.694 V 0 H 0 Z"
+         id="path154" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath160">
+      <path
+         d="M 109.694,54.847 C 109.694,24.556 85.138,0 54.847,0 24.556,0 0,24.556 0,54.847 c 0,30.291 24.556,54.847 54.847,54.847 30.291,0 54.847,-24.556 54.847,-54.847"
+         id="path158" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath164">
+      <path
+         d="M -32768,32767 H 32767 V -32768 H -32768 Z"
+         id="path162" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(54.847031,0,0,-54.847031,54.847031,54.847031)"
+       spreadMethod="pad"
+       id="radialGradient170">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop166" />
+      <stop
+         style="stop-opacity:0;stop-color:#ffffff"
+         offset="1"
+         id="stop168" />
+    </radialGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask172">
+      <g
+         id="g182">
+        <g
+           clip-path="url(#clipPath164)"
+           id="g180">
+          <g
+             id="g178">
+            <g
+               id="g176">
+              <path
+                 d="M -32768,32767 H 32767 V -32768 H -32768 Z"
+                 style="fill:url(#radialGradient170);stroke:none"
+                 id="path174" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </mask>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(54.847031,0,0,-54.847031,54.847031,54.847031)"
+       spreadMethod="pad"
+       id="radialGradient188">
+      <stop
+         style="stop-opacity:1;stop-color:#ffca00"
+         offset="0"
+         id="stop184" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop186" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath895">
+      <g
+         id="g901"
+         style="stroke-width:1">
+        <g
+           id="g899"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path897"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath925">
+      <g
+         id="g931"
+         style="stroke-width:1">
+        <g
+           id="g929"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path927"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath940">
+      <g
+         id="g946"
+         style="stroke-width:1">
+        <g
+           id="g944"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path942"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath955">
+      <g
+         id="g961"
+         style="stroke-width:1">
+        <g
+           id="g959"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path957"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath985">
+      <g
+         id="g991"
+         style="stroke-width:1">
+        <g
+           id="g989"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path987"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1015">
+      <g
+         id="g1021"
+         style="stroke-width:1">
+        <g
+           id="g1019"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1017"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1045">
+      <g
+         id="g1051"
+         style="stroke-width:1">
+        <g
+           id="g1049"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1047"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1075">
+      <g
+         id="g1081"
+         style="stroke-width:1">
+        <g
+           id="g1079"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1077"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1090">
+      <g
+         id="g1096"
+         style="stroke-width:1">
+        <g
+           id="g1094"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1092"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1105">
+      <g
+         id="g1111"
+         style="stroke-width:1">
+        <g
+           id="g1109"
+           style="stroke-width:1">
+          <path
+             d="M 0,109.694 H 109.694 V 0 H 0 Z"
+             id="path1107"
+             style="stroke-width:1" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview134"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.7912089"
+     inkscape:cx="70.650228"
+     inkscape:cy="66.371558"
+     inkscape:window-width="1464"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g140">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page138"
+       width="146.25867"
+       height="146.25867"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="atom.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360" />
+  </sodipodi:namedview>
+  <g
+     id="g140"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,146.25867)">
+    <path
+       d="M 109.694,54.847 C 109.694,24.556 85.138,0 54.847,0 24.556,0 0,24.556 0,54.847 c 0,30.291 24.556,54.847 54.847,54.847 30.291,0 54.847,-24.556 54.847,-54.847"
+       style="fill:url(#radialGradient188);stroke:none"
+       id="path192"
+       inkscape:label="electron cloud" />
+    <path
+       d="m 63.597,46.0972 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.75,3.917 -8.75,8.75 0,4.833 3.917,8.75 8.75,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+       style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:0.99975002;stroke-dasharray:none"
+       id="path210"
+       clip-path="none" />
+    <path
+       d="m 54.847,54.8472 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.75,3.917 -8.75,8.75 0,4.833 3.917,8.75 8.75,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+       style="fill:#bcbddc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99975;stroke-dasharray:none;stroke-opacity:1"
+       id="path234"
+       clip-path="none"
+       transform="translate(1.565367,0.49987501)" />
+    <path
+       d="m 44.0164,83.4752 c 0,-1.981 -1.606,-3.588 -3.587,-3.588 -1.982,0 -3.588,1.607 -3.588,3.588 0,1.981 1.606,3.587 3.588,3.587 1.981,0 3.587,-1.606 3.587,-3.587"
+       style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:0.99975002;stroke-dasharray:none"
+       id="path242"
+       clip-path="none" />
+    <path
+       d="m 77.283,27.8785 c 0,-1.981 -1.606,-3.588 -3.588,-3.588 -1.981,0 -3.588,1.607 -3.588,3.588 0,1.981 1.607,3.587 3.588,3.587 1.982,0 3.588,-1.606 3.588,-3.587"
+       style="fill:#ffca00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:0.99975002;stroke-dasharray:none"
+       id="path250"
+       clip-path="none" />
+    <path
+       d="m 63.597,63.5972 c 0,-4.833 -3.917,-8.75 -8.75,-8.75 -4.833,0 -8.75,3.917 -8.75,8.75 0,4.833 3.917,8.75 8.75,8.75 4.833,0 8.75,-3.917 8.75,-8.75"
+       style="fill:#fc9272;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99975;stroke-dasharray:none;stroke-opacity:1"
+       id="path226"
+       clip-path="none"
+       transform="translate(2.8637514,-1.9160025)" />
+    <text
+       xml:space="preserve"
+       transform="scale(1,-1)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text282"
+       x="86.499496"
+       y="-92.420403"><tspan
+         x="86.499496 98.235497"
+         y="-92.420403"
+         sodipodi:role="line"
+         id="tspan280"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">He</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(1,-1)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text286"
+       x="81.494102"
+       y="-100.6494"><tspan
+         x="81.494102"
+         y="-100.6494"
+         id="tspan284"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">3</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,81.4941,91.5317)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text290"><tspan
+         x="0"
+         y="0"
+         id="tspan288"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.99975;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="55.046749"
+       y="-59.245201"
+       id="text1865"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan1863"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.99975"
+         x="55.046749"
+         y="-59.245201">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.99975;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="72.095001"
+       y="-25.846001"
+       id="text1865-9"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan1863-1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.99975"
+         x="72.095001"
+         y="-25.846001">–</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.99975;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="38.828899"
+       y="-81.442703"
+       id="text1865-9-8"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan1863-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.99975"
+         x="38.828899"
+         y="-81.442703">–</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.99975;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="52.182999"
+       y="-43.661201"
+       id="text1865-5"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan1863-4"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next,  weight=275';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.99975"
+         x="52.182999"
+         y="-43.661201">+</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="measurement"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:none;stroke:#000000;stroke-width:3.77953"
+       x="34.251453"
+       y="68.683578"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:3.77953"
+         x="34.251453"
+         y="68.683578">1.7 fm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:3.77953"
+         x="34.251453"
+         y="88.683578"
+         id="tspan3">(10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan4">-5</tspan> Å)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:none;stroke:#000000;stroke-width:3.77953"
+       x="276.36716"
+       y="89.038567"
+       id="text1-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:3.77953"
+         x="276.36716"
+         y="89.038567">1 Å = 0.1 nm = 10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan2">-10</tspan> m</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="M 49.11708,51.056367 H 39.709072 V 96.534783 H 49.11708"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+       d="m 106.68694,102.4111 4.49851,-2.08289 -10.68939,-21.489458 -4.498513,2.082884"
+       id="path1-0" />
+  </g>
+</svg>
