@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="123.35793mm"
+   height="109.0098mm"
+   viewBox="0 0 123.35793 109.0098"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
@@ -23,27 +23,144 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.2102413"
-     inkscape:cx="397.16269"
-     inkscape:cy="561.25984"
-     inkscape:window-width="1312"
-     inkscape:window-height="449"
-     inkscape:window-x="146"
-     inkscape:window-y="288"
+     inkscape:zoom="2.3786088"
+     inkscape:cx="196.96387"
+     inkscape:cy="52.34152"
+     inkscape:window-width="2184"
+     inkscape:window-height="1190"
+     inkscape:window-x="265"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.80000001"
+       markerHeight="0.80000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-0.2623882)">
     <rect
-       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       style="fill:none;stroke:#000000;stroke-width:0.844873;stroke-dasharray:none"
        id="rect1"
-       width="148.64659"
-       height="91.868637"
-       x="30.203388"
-       y="28.944914" />
+       width="122.51306"
+       height="108.16492"
+       x="0.68482471"
+       y="0.42243651" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="-64.695335"
+       y="15.240353"
+       id="text1"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583"
+         x="-64.695335"
+         y="15.240353">Depth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#217844;stroke:none;stroke-width:0.264583"
+       x="40.422012"
+       y="101.2912"
+       id="text1-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-7"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.264583;fill:#217844"
+         x="40.422012"
+         y="101.2912">Planktonic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#442178;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.79023"
+       y="101.29119"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#442178;fill-opacity:1;stroke-width:0.264583"
+         x="77.79023"
+         y="101.29119">Benthic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="-64.255066"
+       y="7.2925196"
+       id="text3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-64.255066"
+         y="7.2925196">Time </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="3.1043446"
+       y="6.4442158"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="3.1043446"
+         y="6.4442158">Light </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="3.1043446"
+         y="13.499766"
+         id="tspan5">(low δ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:super"
+   id="tspan6">18</tspan>O)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.264583"
+       x="120.77757"
+       y="6.0928493"
+       id="text4-8"><tspan
+         sodipodi:role="line"
+         id="tspan4-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="120.77757"
+         y="6.0928493">Heavy </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="120.77757"
+         y="13.148399"
+         id="tspan8">(high δ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;baseline-shift:super;text-anchor:end"
+   id="tspan7">18</tspan>O)</tspan></text>
+    <path
+       style="fill:none;stroke:#442178;stroke-width:1;stroke-dasharray:none"
+       d="M 74.972049,-4.9983501e-6 V 21.801956 L 94.983544,32.035529 74.972049,42.269102 V 109.0098"
+       id="path4"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#217844;stroke-width:1;stroke-dasharray:none"
+       d="M 37.979099,-4.9983501e-6 V 21.801955 l 20.01149,10.23357 -20.01149,10.233581 v 32.894719 l 15.41631,8.18008 -15.41631,8.80932 V 109.0098"
+       id="path4-6"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.732541;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 9.1695264,64.209914 V 74.536316"
+       id="path8" />
   </g>
 </svg>

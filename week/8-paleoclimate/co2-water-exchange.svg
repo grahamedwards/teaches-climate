@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="55.583042mm"
+   viewBox="0 0 210 55.583042"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="co2-water-exchange.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0993687"
+     inkscape:cx="376.12497"
+     inkscape:cy="206.48215"
+     inkscape:window-width="1832"
+     inkscape:window-height="1219"
+     inkscape:window-x="338"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-19.823904)">
+    <rect
+       style="fill:#3771c8;stroke:none;stroke-width:1"
+       id="rect1"
+       width="210"
+       height="29.47592"
+       x="0"
+       y="-75.406944"
+       transform="scale(1,-1)" />
+    <path
+       style="fill:#3771c8;stroke:#000000;stroke-width:1;marker-start:url(#Triangle)"
+       d="M 87.362641,53.517484 V 19.823904"
+       id="path1" />
+    <path
+       style="fill:#3771c8;stroke:#000000;stroke-width:1;marker-start:url(#Triangle-7)"
+       d="m 122.63735,23.374979 v 33.69358"
+       id="path1-2" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:12.2903px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Medium';text-align:center;text-anchor:middle;fill:#3771c8;stroke:#000000;stroke-width:1.45161"
+       x="104.98432"
+       y="38.635529"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;stroke:none;stroke-width:1.45161"
+         x="104.98432"
+         y="38.635529">CO<tspan
+   style="font-size:7.98866px;baseline-shift:sub;fill:#000000;stroke:none;stroke-width:1.45161"
+   id="tspan2">2</tspan></tspan></text>
+  </g>
+</svg>

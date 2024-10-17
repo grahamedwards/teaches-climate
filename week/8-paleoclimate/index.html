@@ -436,15 +436,32 @@
 						<span class="fragment">$N=N_o e^{-\lambda t}$</span>
 					</section>
 
-					<section>
+					<section data-auto-animate>
 						<h1><sup>14</sup>C production &amp; the solar cycle</h1>
 						More rays, more radiocarbon!
 						<img class="r-stretch" src="stuiver1961.png" />
 						<div class="lfoot"><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JZ066i001p00273">Stuiver, 1961</a></div>
 					</section>
 
-					<section>
-						<h1>Modern radiocarbon chronology depends on production calibrations</h1>
+					<section data-auto-animate>
+						<h1><sup>14</sup>C production &amp; the solar cycle</h1>
+						<div class="cols">
+							<div><img src="stuiver1961.png" />
+								<div class="lfoot"><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JZ066i001p00273">Stuiver, 1961</a></div>
+							</div>
+							<div>
+								<h5>🌲🌳 Dendrochronology 🌳🌲</h5>
+								<img src="https://scied.ucar.edu/sites/default/files/media/images/tree-rings-1160.jpg"/>
+								<div class="lfoot"><a href="https://scied.ucar.edu/learning-zone/how-climate-works/tree-rings-and-climate">UCAR	</a></div>
+							</div>
+						</div>
+					</section>
+
+
+
+
+					<section >
+						<h1>Modern radiocarbon chronology depends on <sup>14</sup>C-production calibrations</h1>
 						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/IntCal20_full.svg">
 
 						<div> <a href="https://www.intcal.org/">IntCal</a>20 calibration curve</div>
@@ -515,7 +532,7 @@
 							</div>
 						</div>
 						
-						<div class="fragment"><hr>What might be some examples of each?</div>
+						<div class="fragment"><hr>For example&hellip;?</div>
 					</section>
 
 				</section>
@@ -606,12 +623,54 @@
 
 						<section>
 							<h1>Reconstructing ice mass from ocean compositions</h1>
-							<img class="r-stretch" src="../../media/LR04-light.png"/>
+							<img class="r-stretch" src="../../media/LR04.svg"/>
 
 							<div class="fragment">
 								How do we reconstruct seawater?
 							</div>
+							<div class="footer">Data: <a href="https://lorraine-lisiecki.com/stack.html">Lisiecki+Raymo 2004</a></div>
 						</section>
+
+						<section>
+							<h1>Foraminifera</h1>
+							Shell (test) made of CaC<strong>O</strong><sub>3</sub>
+							<div class="cols">
+								<div><img src="foram-living.jpg"/></div>
+								<div><img src="foram-dead.jpg"/></div>
+							</div>
+							<div class="cfoot">Image credit: Cait Livesy</div>
+						</section>
+
+						<section data-auto-animate>
+							<h1>Ocean carbonate system</h1>
+							<img class="r-stretch" src="co2-water-exchange.svg" />
+							<div>CO<sub>2</sub> readily exchanges between water and atmosphere</div>
+
+						</section>
+
+						<section data-auto-animate>
+							<h1>Ocean carbonate system</h1>
+								\[\begin{aligned}
+									\text{H}_2\text{O} + \text{CO}~_{2~(aq)} 
+									~&amp;\longleftrightarrow~ 
+									\text{H}_2\text{CO}_3
+									\\\\
+									\text{H}_2\text{CO}_3
+									~&amp;\longleftrightarrow~ 
+									\text{H}^{+} + \text{H}\text{CO}_3^-
+									\\\\
+									\text{H}^{+} + \text{H}\text{CO}_3^-
+									~&amp;\longleftrightarrow~ 
+									2~\text{H}^{+} + \text{CO}_3^{2-}
+									\\\\
+									(\text{H}_2\text{O} ~ &amp;\longleftrightarrow ~ \text{H}^+ + \text{OH}^-)
+								\end{aligned}\]
+							<hr>
+							<div class="fragment">
+								$\text{Ca}^{2+} + \text{CO}_3^{2-} \longrightarrow \text{CaCO}_3$
+							</div>
+						</section>
+
 						<section>
 							<h1>A new standard appears!</h1>
 							<h5> 🦑 VPDB (Vienna Pee Dee Belemnite) 🦑</h5>
@@ -619,23 +678,129 @@
 							\[\begin{aligned} 
 								\delta^{18}\text{O}_{\text{VSMOW}}= 1.03091 \times \delta^{18}\text{O}_{\text{VPDB}} + 30.91 (&permil;)
 							\end{aligned}\]
+							rock &harr; water
+							<br><br>	
+							(You don't need to know the equation, just that it exists)
+							<hr>
+							<h5 class="fragment">What does this tell us about how carbonate formation affects O isotopes?</h5>
+						</section>
 
-							(converts between rock and water compositions)
+						<section>
+							<h1>Temperature-dependent oxygen isotope fractionation</h1>
+							<img class="r-stretch" src="../../media/kitchens/ch5/ox-temp.webp"/>
+							<h5 class="fragment">&delta;<sup>18</sup>O gets more positive (&uarr;) as water cools.</h5>
+						</section>
+
+						<section>
+							<h1>Temperature &amp; reservoir effects</h1>
+							<img class="r-stretch" src="../../media/LR04.svg"/>
+							<div class="footer">Data: <a href="https://lorraine-lisiecki.com/stack.html">Lisiecki+Raymo 2004</a></div>
+							<hr>	
+							<table>
+								<tr>
+									<th>&delta;<sup>18</sup>O</th>
+									<th>Temp.</th>
+									<th>Ice extent</th>
+								</tr>
+								<tr>
+									<td>&uarr; (heavier)</td><td>&darr; (cooler)</td><td>&uarr; (more)</td>
+								</tr>
+								<tr>
+									<td>&darr; (lighter)</td><td>&uarr; (warmer)</td><td>&darr; (less)</td>
+								</tr>
+							</table>
+						</section>
+
+						<section>
+							<h1>Benthic vs. planktic records</h1>
+							<div class="cols">
+								<div><img src="plank-benth-diagram.svg"/> </div>
+								<div class="fragment"><img src="planktonic-benthic.svg"/></div>
+							</div>
 						</section>
 
 					</section>
 
-					<section data-visibility="hidden">
-						<section><h1 class="r-fit-text">Stable isotopes of carbon</h1></section>
+				<section>
+					<section><h1>More isotopes to come, but for now&hellip;</h1>
+						 <h1>some non-isotopic, <u>semi-quantitative</u> climate proxies&hellip;</h1></section>
 
-						<section>
-							<h1>Carbonate system</h1>
-						</section>
-
-						<section>
-							<h1>Carbon fractionation</h1>
-						</section>
+					<section>
+						<h1>Dendrochronology</h1>
+						<img class="r-stretch" src="../../media/kitchens/ch5/dendro.webp"/>
 					</section>
+
+					<section>
+						<h1>Sclerochronology</h1>
+						Growth of hard tissues&hellip;
+						<div class="cols">
+							<div><img src="https://davidkmoss.weebly.com/uploads/1/1/1/4/111412139/published/ivany-craea.jpg?1505409734"/><div class="lfoot"><a href="https://davidkmoss.weebly.com/blog/sclerochronology-meets-paleontology">Moss Lab, SHSU</a></div></div>
+
+							<div>
+								<img src="https://www.journals.uchicago.edu/cms/10.1086/BBLv226n3p187/asset/images/medium/z1n0031435890002.jpeg"><div class="lfoot"><a href="https://www.journals.uchicago.edu/doi/10.1086/BBLv226n3p187">Lough &amp; Cantin, 2014</a></div>
+							</div>
+						</div>
+					</section>
+
+
+					<section data-auto-animate>
+						<h1>Fossils</h1>
+						<div class="cols">
+							<div>
+								<em>Quercus virginiana</em> <br>(Southern live oak)
+								<img  src="https://si.gardenexplorer.org/AppImages/30667.jpg"/><br>
+								Hot summers, mild winters
+							</div>
+							<div>
+								<em>Abies balsamea</em> <br>(Balsam fir)
+								<img src="https://arboretum.uoguelph.ca/arboretum/sites/uoguelph.ca.arboretum/files/public/P1000191.jpg"/><br> Mild summers, cold winters
+							</div>
+						</div>
+						<hr>
+						<div class="fragment">Going up-sequence in a lake sediment core, you see fewer oak fossils and more fir fossils. What happened?</div>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Fossils</h1>
+						<p><strong>Palynology:</strong> identifying pollen species. Plant species at a given time reflect the environment at that time.</p>
+						<img class="r-stretch" src="https://svs.gsfc.nasa.gov/vis/a010000/a010300/a010394/pollen.jpg"/>
+						<div class="lfoot"><a href="https://svs.gsfc.nasa.gov/10394/">NASA</a></div>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Fossils</h1>
+						<p>
+							Chironomid (non-biting midges) species live in narrow ranges of temperature, altitude, and water pH.
+						</p>
+						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Chironomus_plumosus01.jpg"/>
+
+						<div class="lfoot"><a href="https://commons.wikimedia.org/wiki/File:Chironomus_plumosus01.jpg">Wikimedia</a></div>
+					</section>
+
+					<section>
+						<h1>Plant &amp; microbe  carbon-chain molecules (lipids, alkanes, etc&hellip;)</h1>
+
+						<div class="cols">
+							<div>
+								<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Arachidic_formula_representation.svg"/>
+								<div class="lfoot"><a href="https://commons.wikimedia.org/wiki/File:Arachidic_formula_representation.svg">Wikimedia</a></div>
+							</div>
+
+							<div>
+								<p>Molecular structure varies with environmental conditions (temperature, moisture, &hellip;)</p>
+								<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0016703711005497-gr1.jpg"/><div class="lfoot"><a href="https://doi.org/10.1016/j.gca.2011.09.028">Diefendorf+ 2011</a>
+							</div>
+						</div>
+					</section>
+
+					<section>
+						<h1 class="r-fit-text">Why is life so good at recording climate change?</h1>
+							<div class="fragment">
+								(hint: nutrients &amp; energy)
+							</div>
+					</section>
+
+				</section>
 
 
 
@@ -646,6 +811,8 @@
 						<li>Week <script type="text/javascript">document.write(thisweek+1)</script> reading (<a href="https://canvas.trinity.edu/courses/5520/modules">Canvas</a>)</li>
 						<li>Tuesday: The cryosphere</li>
 						<li>Thursday: The cryosphere records climate</li>
+						<li>Paleoclimate practice</li>
+						<li>Term paper outline [Nov. 1]</li>
 					</ul>
 					
 				</section>
@@ -672,6 +839,7 @@
 			});
 			Reveal.configure({ pdfSeparateFragments: false });
 		</script>
+
 	</body>
 </html>
 
