@@ -105,6 +105,9 @@ ol.loweralpha {list-style-type: lower-alpha;}
 .rotate-90cw img {
   transform: rotate(90deg);
 }
+.rotate-90ccw img {
+  transform: rotate(-90deg);
+}
 
 .arrow {
   border: solid black;
