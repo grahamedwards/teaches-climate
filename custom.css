@@ -102,6 +102,19 @@ ol.loweralpha {list-style-type: lower-alpha;}
 .fragment.bold {}
 .fragment.bold.visible {font-weight:bold;}
 
+.rotate-90cw img {
+  transform: rotate(90deg);
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.ctab tr td {text-align: center;}
+
 .full {
   height:100%;
   width:100%;  
