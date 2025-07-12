@@ -60,6 +60,16 @@
 .rarr {list-style-type: "→";}
 .larr {list-style-type: "←";}
 ol.loweralpha {list-style-type: lower-alpha;}
+ol.weekly { 
+  list-style-type:none;
+  counter-reset: elementcounter;
+  padding-left: 0;
+  li:before {
+    content: "Week " counter(elementcounter) ": ";
+    counter-increment: elementcounter;
+    font-weight:bold;
+  }
+}
 
 .cols {
   display:flex;
