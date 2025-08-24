@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="238.66934mm"
-   height="141.94582mm"
-   viewBox="0 0 238.66934 141.94582"
+   width="260.08011mm"
+   height="163.35712mm"
+   viewBox="0 0 260.08011 163.35712"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   sodipodi:docname=".svg"
+   sodipodi:docname="seating-groups.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.61988095"
-     inkscape:cx="287.95852"
-     inkscape:cy="380.71826"
-     inkscape:window-width="1744"
-     inkscape:window-height="1027"
-     inkscape:window-x="80"
-     inkscape:window-y="33"
+     inkscape:zoom="0.68235822"
+     inkscape:cx="586.20237"
+     inkscape:cy="490.21173"
+     inkscape:window-width="1464"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -38,7 +38,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-6.2361636,4.9206297)">
+     transform="translate(4.4692241,15.626277)">
+    <rect
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="rect4"
+       width="258.66901"
+       height="161.946"
+       x="-3.7636685"
+       y="-14.920721" />
     <rect
        style="fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect1"
@@ -74,6 +81,38 @@
        height="35.42683"
        x="11.293508"
        y="100.89281" />
+    <g
+       id="g3"
+       transform="translate(45.052804,-12.924574)"
+       style="display:inline;fill:#374845">
+      <rect
+         style="fill:#374845;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+         id="rect2"
+         width="46.429329"
+         height="6.3380909"
+         x="152.71782"
+         y="19.617901" />
+      <path
+         style="fill:#374845;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+         d="M 199.16112,25.950456 159.64558,48.597568"
+         id="path2" />
+      <ellipse
+         style="fill:#374845;stroke:none;stroke-width:1.41235;stroke-linejoin:bevel;stroke-dasharray:none"
+         id="path3"
+         cx="117.15247"
+         cy="117.02827"
+         rx="1.5720066"
+         ry="0.59528369"
+         transform="matrix(0.89158843,-0.45284664,0.50495341,0.8631466,0,0)" />
+      <ellipse
+         style="fill:#374845;stroke:none;stroke-width:1.41235;stroke-linejoin:bevel;stroke-dasharray:none"
+         id="path3-1"
+         cx="117.14926"
+         cy="114.19514"
+         rx="1.5720066"
+         ry="0.59528369"
+         transform="matrix(0.89158843,-0.45284664,0.50495341,0.8631466,0,0)" />
+    </g>
     <text
        xml:space="preserve"
        style="font-size:8.46667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
@@ -129,38 +168,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
          x="30.14418"
          y="124.76186">IV</tspan></text>
-    <g
-       id="g3"
-       transform="translate(45.052805,-12.924574)"
-       style="fill:#374845">
-      <rect
-         style="fill:#374845;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-         id="rect2"
-         width="46.429329"
-         height="6.3380909"
-         x="152.71782"
-         y="19.617901" />
-      <path
-         style="fill:#374845;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-         d="M 199.16112,25.950456 159.64558,48.597568"
-         id="path2" />
-      <ellipse
-         style="fill:#374845;stroke:none;stroke-width:1.41235;stroke-linejoin:bevel;stroke-dasharray:none"
-         id="path3"
-         cx="117.15247"
-         cy="117.02827"
-         rx="1.5720066"
-         ry="0.59528369"
-         transform="matrix(0.89158843,-0.45284664,0.50495341,0.8631466,0,0)" />
-      <ellipse
-         style="fill:#374845;stroke:none;stroke-width:1.41235;stroke-linejoin:bevel;stroke-dasharray:none"
-         id="path3-1"
-         cx="117.14926"
-         cy="114.19514"
-         rx="1.5720066"
-         ry="0.59528369"
-         transform="matrix(0.89158843,-0.45284664,0.50495341,0.8631466,0,0)" />
-    </g>
     <rect
        style="fill:#ececec;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect3"
