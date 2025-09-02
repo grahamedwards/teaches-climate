@@ -53,10 +53,10 @@
 
 					<hr>
 
-					<h2>Outisde of class</h2>
+					<h2>Outside of class</h2>
 					<ul>
 						<li>Complete/self-grade quantitative skills packet &amp; meet with me, by  Sept 12</li>
-						<li>Lab 1 due 11:59 pm <strong>Friday</strong></li>
+						<li>Lab 1 due 11:59 pm <strong>Friday, Sept. 12</strong></li>
 					</ul>
 
 				</section>
@@ -78,7 +78,7 @@
 						<p>The reservior and fluxes are any quantity &mdash; energy, matter, etc...</p>
 					</section>
 
-					<section>
+					<section data-auto-animate>
 						<h1>Residence Time</h1>
 						
 						<p>How long does a "particle" typically remain in the reservoir?</p>
@@ -86,9 +86,43 @@
 						<div class="fragment">
 							$$\tau = \frac{m}{f}$$
 
-							<p>This is the <strong>mean</strong> residence time for a system with constant inflow/outflow, where &tau; is residence time, <em>m</em> denotes the quantity, and <em>f</em> denotes the flux.</p>
+							This is the <strong>mean</strong> residence time for a system with constant inflow/outflow, where $\tau$ is residence time, $m$ denotes the <strong>stock</strong>, and $f$ denotes the <strong>flux</strong>.
 						</div>
-
+					</section>
+					<section data-auto-animate>
+						<h1>Residence Time</h1>
+						<div>
+							A pond is in equilibrium between precipitation and evaporation. It contains 10<sup>4</sup> kg of water. Water evaporates from the pond at a rate of 10 kg/day. How long does a typical water molecule reside in the pond?
+						</div>
+						<hr>
+						<ol>
+							<li  class="fragment semi-fade-out" data-fragment-index="1">10 days</li>
+							<li  class="fragment semi-fade-out" data-fragment-index="1">100 days</li>
+							<li>10<sup>3</sup> days</li>
+							<li class="fragment semi-fade-out" data-fragment-index="1">10<sup>4</sup> days</li>
+						</ol>
+					</section>
+				</section>
+				<section>
+					<section data-auto-animate>
+						<h1 class="r-fit-text">Fluxes: transfer of energy or mass </h1>
+					</section>
+					
+					<section data-auto-animate>
+						<h1>Fluxes: transfer of energy or mass </h1>
+						<h3>Three mechanisms</h3>
+						<ol class="fragment">
+							<li>Radiation (typically EM = light)</li>
+							<li>Advection / convection</li>
+							<li>Diffusion (mass) / conduction (energy)</li>
+						</ol>
+					</section>
+						
+					<section>
+						<h1>Diffusion / Conduction</h1>
+						<div>Random motion of particles/energy <strong>down</strong> a gradient (high&rarr;low)</div>
+						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DiffusionMicroMacro.gif">
+						<div class="footer"><a href="https://commons.wikimedia.org/wiki/File:DiffusionMicroMacro.gif">Wikimedia</a></div>
 					</section>
 
 					<section>
@@ -110,8 +144,10 @@
 						<img src="reservoir-flux.svg">
 					
 					</section>
-
-										<section>
+				</section>
+				<section>
+					<section><h1 class="r-fit-text">Equilibrium &amp; state changes</h1></section>
+					<section>
 						<h1>Equilibrium does not mean static</h1>
 						<video
 							data-autoplay class="r-stretch" loop
@@ -143,7 +179,6 @@
 						<img class="r-stretch" src="https://www.ipcc.ch/report/ar6/wg1/downloads/figures/IPCC_AR6_WGI_Figure_1_17.png">
 						<div class="footer"><a href="https://scied.ucar.edu/learning-zone/earth-system/climate-system/feedback-loops-tipping-points">IPCC, AR6, Fig. 1.17</a></div>
 					</section>
-
 				</section>
 
 
@@ -333,14 +368,14 @@
 						<div>
 							<h4>Life is made up of...</h4>
 							
-							<ol class="fragment">
-								<li>oxygen (~63%)</li>
-								<li>carbon (~18%)</li>
-								<li>hydrogen (~10%)</li>
-								<li>nitrogen (~2%)</li>
-								<li>calcium (~2%)</li>
-								<li>everything else (~5%)</li>
-							</ol>
+							<table class="fragment">
+								<tr><th>oxygen</th><td>~63%</td></tr>
+								<tr><th>carbon</th><td>~18%</td></tr>
+								<tr><th>hydrogen</th><td>~10%</td></tr>
+								<tr><th>nitrogen</th><td>~2%</td></tr>
+								<tr><th>calcium</th><td>~2%</td></tr>
+								<tr><th>everything else</th><td>~5%</td></tr>
+							</table>
 						</div>
 						<div class="fragment">
 							<h4>Life is limited by two things: nutrients, energy</h4>
@@ -389,7 +424,7 @@
 					<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Seawifs_global_biosphere.jpg"/>
 					<ul>
 						<li>Where is production greatest? Least?</li>
-						<li>What controls primary production?</li>
+						<li>Is this surprising?</li>
 					</ul>
 					<div class="footer"><a href="https://en.wikipedia.org/wiki/Primary_production#/media/File:Seawifs_global_biosphere.jpg">Wikimedia</a></div>
 				</section>
@@ -514,7 +549,8 @@
 
 					<section data-auto-animate>
 						<h1>Foundations</h1>
-						<img src="https://nap.nationalacademies.org/cover/19210/450" width =100px>
+						<div>Complex interconnections</div>
+						<img src="https://nap.nationalacademies.org/cover/19210/450" width=120px>
 						<img class="r-stretch" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43017-019-0005-6/MediaObjects/43017_2019_5_Fig2_HTML.png">
 						<div class = "footer"><a href="https://nap.nationalacademies.org/catalog/19210/earth-system-science-overview-a-program-for-global-change">NASA (1986)</a></div>
 					</section>
@@ -876,13 +912,13 @@
 
 				<section>
 					<h1>Lab this afternoon in MMS 273</h1>
-					Lab 1 due Friday (tomorrow) by 11:59pm
+					Lab 1 due next Friday by 11:59pm
 					<hr>
 					<h1>Next Week (<script type="text/javascript">document.write(thisweek+1)</script>)</h1>
 					<ul>
 						<li>Readings: Syllabus / <a href="https://canvas.trinity.edu">Canvas</a></li>
 						<li>Complete/grade quantitative skills packet &amp; meet with me, by  Sept 12</li>
-						<li><strong>Coming up:</strong> Astrophysics of climate</li>
+						<li><strong>Coming up:</strong> ☀️ Astrophysics of climate ☀️</li>
 					</ul>
 					
 				</section>
