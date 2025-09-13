@@ -255,12 +255,12 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="4.1471864"
-     inkscape:cx="98.500516"
+     inkscape:cx="98.62108"
      inkscape:cy="54.977032"
      inkscape:window-width="1384"
      inkscape:window-height="847"
      inkscape:window-x="56"
-     inkscape:window-y="15"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="g140">
     <inkscape:page
@@ -527,7 +527,7 @@
     <g
        id="g2571"
        inkscape:label="Atomic name, weight"
-       style="fill:#000000">
+       style="display:none;fill:#000000">
       <text
          xml:space="preserve"
          transform="scale(1,-1)"

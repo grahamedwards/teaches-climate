@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.20.13
+# v0.20.17
 
 using Markdown
 using InteractiveUtils
@@ -7,146 +7,34 @@ using InteractiveUtils
 # ╔═╡ c6ac4680-7df6-11f0-1c46-a372ada2784f
 using CairoMakie
 
-# ╔═╡ 2d2d825a-5de8-4ac6-bf77-422a1b908ae3
-z, T, P, ρ  = [-1
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-13
-15
-17
-20
-25
-30
-32
-35
-40
-45
-47
-50
-51
-60
-70
-71
-80
-84.9
-89.7
-100.4
-105
-110], 
-[21.5
-15.0
-8.5
-2.0
--4.5
--11.0
--17.5
--24.0
--30.5
--37.0
--43.5
--50.0
--56.5
--56.5
--56.5
--56.5
--56.5
--51.5
--46.5
--44.5
--36.1
--22.1
--8.1
--2.5
--2.5
--2.5
--27.7
--55.7
--58.5
--76.5
--86.3
--86.3
--73.6
--55.5
--9.2], 
-[113.920
-101.325
-89.874
-79.495
-70.108
-61.640
-54.019
-47.181
-41.060
-35.599
-30.742
-26.436
-22.632
-16.510
-12.044
-8.787
-5.475
-2.511
-1.172
-0.868
-0.559
-0.278
-0.143
-0.111
-0.076
-0.067
-0.02031
-0.00463
-0.00396
-0.00089
-0.00037
-0.00015
-0.00002
-0.00001
-0.00001], [1.3470
-1.2250
-1.1116
-1.0065
-0.9091
-0.8191
-0.7361
-0.6597
-0.5895
-0.5252
-0.4664
-0.4127
-0.3639
-0.2655
-0.1937
-0.1423
-0.0880
-0.0395
-0.0180
-0.0132
-0.0082
-0.0039
-0.0019
-0.0014
-0.0010
-0.00086
-0.000288
-0.000074
-0.000064
-0.000015
-0.000007
-0.000003
-0.0000005
-0.0000002
-0.0000001]
+# ╔═╡ 39aae521-e376-487b-bc06-6862558361fe
+dark_mode() = Theme( fontsize = 20,
+
+    backgroundcolor=:transparent, labelcolor=:white,
+    
+
+    Axis =(backgroundcolor=:transparent, 
+
+        spinewidth=2.,ytickwidth=2., xtickwidth=2.,
+        
+        bottomspinecolor=:white,topspinecolor=:white,leftspinecolor=:white,rightspinecolor=:white,
+        
+
+        xgridcolor=(:white,0.2),ygridcolor=(:white,0.2),
+
+        xtickcolor=:white,ytickcolor=:white, 
+        yticklabelcolor=:white,xticklabelcolor=:white,
+        
+        xlabelcolor=:white,ylabelcolor=:white,titlecolor=:white),
+
+    Legend = (
+        labelcolor=:white,
+        backgroundcolor=:transparent,
+        framecolor=:white),
+        )
+
+# ╔═╡ 1e65e687-75c8-43ce-811b-a88c102f78d6
+z, T, P, ρ = [-1.0, 0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 13.0, 15.0, 17.0, 20.0, 25.0, 30.0, 32.0, 35.0, 40.0, 45.0, 47.0, 50.0, 51.0, 60.0, 70.0, 71.0, 80.0, 84.9, 89.7, 100.4, 105.0, 110.0], [21.5, 15.0, 8.5, 2.0, -4.5, -11.0, -17.5, -24.0, -30.5, -37.0, -43.5, -50.0, -56.5, -56.5, -56.5, -56.5, -56.5, -51.5, -46.5, -44.5, -36.1, -22.1, -8.1, -2.5, -2.5, -2.5, -27.7, -55.7, -58.5, -76.5, -86.3, -86.3, -73.6, -55.5, -9.2], [113.92, 101.325, 89.874, 79.495, 70.108, 61.64, 54.019, 47.181, 41.06, 35.599, 30.742, 26.436, 22.632, 16.51, 12.044, 8.787, 5.475, 2.511, 1.172, 0.868, 0.559, 0.278, 0.143, 0.111, 0.076, 0.067, 0.02031, 0.00463, 0.00396, 0.00089, 0.00037, 0.00015, 2.0e-5, 1.0e-5, 1.0e-5], [1.347, 1.225, 1.1116, 1.0065, 0.9091, 0.8191, 0.7361, 0.6597, 0.5895, 0.5252, 0.4664, 0.4127, 0.3639, 0.2655, 0.1937, 0.1423, 0.088, 0.0395, 0.018, 0.0132, 0.0082, 0.0039, 0.0019, 0.0014, 0.001, 0.00086, 0.000288, 7.4e-5, 6.4e-5, 1.5e-5, 7.0e-6, 3.0e-6, 5.0e-7, 2.0e-7, 1.0e-7]
 
 # ╔═╡ c6414566-5cf0-48ca-ac65-8559ce6c01e0
 H = 287.053 * (273.15)/9.8
@@ -181,6 +69,88 @@ let
 	Makie.save("rho-P-z.svg",f)
 	f
 end
+
+# ╔═╡ b87c3625-4157-49b5-800b-07d0b4182073
+with_theme(dark_mode()) do
+
+	N_(x) = @.  No * exp(-log(2)x)
+
+No = 1
+
+f=Figure(size=(800,400))
+ax1= Axis(f[1,1], xlabel = "Half-lives",ylabel="Abundance", yticks=([0,1], ["0","Nₒ"]),ygridvisible=true)
+t = 0:.1:6
+N = lines!(ax1,t,N_(t), color=:hotpink)
+n = lines!(ax1,t, No .- N_(t), linestyle=:dash, color=:cadetblue1)
+	
+Legend(f[1, 1], [N, n], ["N", "n"], halign=:right,tellwidth=false, tellheight=false, margin= (0,60,0,0,),framevisible=false)
+
+Label(f[1,2],  L"\frac{n}{N}", color=:white, tellheight=false, tellwidth=true, fontsize=24 )
+	
+ax2= Axis(f[1,3], xlabel = "Half-lives",ylabelrotation=0,ygridvisible=true,xgridvisible=true,yticks= No ./ N_(0:4) .-1)
+t = 0:.1:4
+lines!(ax2,t,(No ./ N_(t)) .- 1, color=:seagreen1)
+	
+#Label(f[0,1], "a.", halign=:left,tellwidth=false, tellheight=true, font=:bold, fontsize=22)
+#Label(f[0,2], "b.", font=:bold, halign=:left,fontsize=22,tellwidth=false, tellheight=true)
+#rowsize!(f.layout,0,Relative(1/100))
+Makie.save("../envi1301/nN-halflife.svg",f)
+f
+end
+
+# ╔═╡ a608fa69-f8b4-4618-ab09-caa99e6b6430
+with_theme(dark_mode()) do
+
+	l238 = 1.551254796141587e-10
+	l234 = 2.822030700105632e-6
+	l230 = 9.170554357535262e-6
+
+	n_N(x,l) = @. (exp(x * l) - 1) / exp(x * -l)
+
+
+	f=Figure(size=(900,300))
+	ax1= Axis(f[1,2], ylabelrotation=0, ygridvisible=false, xgridvisible=false, xlabel="Million years") 
+		#"²⁰⁶Pb / ²³⁸U"
+	Label(f[1,1], L"\frac{^{206}\text{Pb}}{^{238}\text{U}}", tellwidth=true, tellheight=false, color=:white)
+		
+	t = LinRange(0,5e9,200)
+	lines!(ax1,t./1e6,n_N(t,l238), color=:hotpink)
+	vlines!(ax1,4568, linestyle=:dash, color=:white, label="Age of solar system")
+	axislegend(ax1, framevisible=false, position=(0,1), labelsize=18)
+	
+	
+	Label(f[1,3], L"\frac{^{230}\text{Th}}{^{234}\text{U}}", tellwidth=true, tellheight=false, color=:white)
+	
+	
+	dN2_dt(λ2::Number, λ1::Number, N2::Number ,N1::Number) = λ1 * N1 - λ2 * N2
+	
+	t = 1:5e5
+	u238, u234, th230 = ((fill(NaN, length(t)) for i=1:3)...,)
+	u238[1] = 1.
+	u234[1] = l238/l234
+	th230[1] = 0.
+	
+	for i = 2:length(t)
+		u8, u4, th0 = u238[i-1], u234[i-1], th230[i-1]
+		
+		th0 += dN2_dt(l230,l234,th0,u4)*step(t) 
+		u4 += dN2_dt(l234,l238,u4,u8)*step(t)
+		u8 += -l238*step(t) 
+
+		u238[i], u234[i], th230[i] = u8, u4, th0
+	end 
+	
+	ax2= Axis(f[1,4], ygridvisible=false, xgridvisible=false, xlabel="Thousand years")
+	lines!(ax2,t/1e3 , th230 ./ u234 , color=:cadetblue1)
+	vlines!(ax2,71, linestyle=:dash, color=:white, label="Time since last\n ice age began")
+	axislegend(ax2, framevisible=false, position=(1,0), labelsize=18)
+	
+	Makie.save("../envi1301/u-decays.svg",f)
+	f
+end
+
+# ╔═╡ d5b87e70-d97a-43ae-9de4-3a57746ba765
+
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
@@ -1694,8 +1664,12 @@ version = "4.1.0+0"
 
 # ╔═╡ Cell order:
 # ╠═c6ac4680-7df6-11f0-1c46-a372ada2784f
-# ╟─2d2d825a-5de8-4ac6-bf77-422a1b908ae3
+# ╟─39aae521-e376-487b-bc06-6862558361fe
+# ╠═1e65e687-75c8-43ce-811b-a88c102f78d6
 # ╠═c6414566-5cf0-48ca-ac65-8559ce6c01e0
 # ╠═c2f7b905-6b61-43ee-9830-636e8abc885b
+# ╠═b87c3625-4157-49b5-800b-07d0b4182073
+# ╠═a608fa69-f8b4-4618-ab09-caa99e6b6430
+# ╠═d5b87e70-d97a-43ae-9de4-3a57746ba765
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002

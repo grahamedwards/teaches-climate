@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+
+		<link rel="stylesheet" href="../revealjs/dist/reset.css">
+		<link rel="stylesheet" href="../revealjs/dist/reveal.css">
+		<link rel="stylesheet" href="../revealjs/dist/theme/dracula.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="../revealjs/plugin/highlight/monokai.css">
+		<link rel="stylesheet" href="../custom.css">
+		<style type="text/css">:root {--r-main-font-size: 30px;}</style>
+		<script type="text/javascript">
+			var thisweek = 1;
+		</script>
+		  <title>Intro to Paleoclimate</title>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-background-image="natural-bridge-caverns.jpg" data-background-opacity="0.2">
+					<h1 class="r-fit-text">Reading Earth history from chemistry</h1>
+					<h3>ENVI 1301</h3>
+					<h5>Graham H. Edwards, Earth &amp; Environmental Geosciences</h5>
+				</section>
+
+				<section>
+					<section><h1 class="r-fit-text">Paleoclimate</h1><h1>Reconstructing climates of the past</h1></section>
+
+					<section>
+						<h1>Earth, 2002</h1>
+						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_Marble_2002.png/1280px-Blue_Marble_2002.png"/>
+						<div class="footer"><a href="https://en.wikipedia.org/wiki/File:Blue_Marble_2002.png">Wikimedia</a></div>
+					</section>
+
+					<section>
+						<h1>Earth, 21 000 years ago</h1>
+						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Mollweide_Paleographic_Map_of_Earth%2C_21_Ka_%28Late_Pleistocene_Age%29.png"/>
+						<div class="footer"><a href="https://commons.wikimedia.org/wiki/File:Mollweide_Paleographic_Map_of_Earth,_21_Ka_(Late_Pleistocene_Age).png">Wikimedia</a></div>
+					</section>
+
+					<section>
+						<h1>Earth, 105 million years ago</h1>
+						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Mollweide_Paleographic_Map_of_Earth%2C_105_Ma_%28Albian_Age%29.png"/>
+						<div class="footer"><a href="https://commons.wikimedia.org/wiki/File:Mollweide_Paleographic_Map_of_Earth,_105_Ma_(Albian_Age).png">Wikimedia</a></div>
+					</section>
+
+					<section>
+						<h1>Earth, 690 million years ago</h1>
+						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png"/>
+						<div class="footer"><a href="https://commons.wikimedia.org/wiki/File:Mollweide_Paleographic_Map_of_Earth,_690_Ma_(Cryogenian_Period).png">Wikimedia</a></div>
+					</section>
+					
+					<section data-background-image="https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2024/06/STScI-01HZ5DBAXMQPDYQ78A4TPKBNW2.png/jcr:content/renditions/2000x1600.jpg">
+						<h1 style="position: fixed; top:0;">Earth (&amp; Sun), 4 565 million years ago</h1>
+						
+						<div style="position: fixed; bottom:0; font-size: small;"><a href="https://science.nasa.gov/asset/webb/protoplanetary-disk-artists-concept/">NASA</a></div>
+					</section>
+
+					<section>
+						<h1>Global temperature over the last 485 million years</h1>
+						<img class="r-stretch" src="https://www.science.org/cms/10.1126/science.adk3705/asset/8d762ca5-65f7-4691-9ef0-6ef25ea3f61f/assets/images/large/science.adk3705-fa.jpg"/>
+						<div class="footer"><a href="https://doi.org/10.1126/science.adk3705">Judd+ 2024</a></div>
+					</section>
+					
+					<section><h1 class="r-fit-text">How do we figure this out?</h1></section>
+				</section>
+
+				
+
+				<section>
+					<section><h1 class="r-fit-text">(Isotope) Geochemistry</h1></section>
+					
+					<section data-auto-animate>
+						<h1>Isotopes</h1>
+						<div>Atoms of the same element with different masses.</div>
+						<div class="cols">
+							<div>
+								<table class="ctab">
+									<tr><th>particle</th><th>charge</th></tr>
+									<tr><td>proton</td><td>&plus;</td></tr>
+									<tr><td>electron</td><td>&minus;</td></tr>
+									<tr><td><strong>neutron</strong></td><td>&cir;</td></tr>
+								</table>
+							</div>
+							<div><img src="He4.svg"/> $$^4_2\text{He}$$</div>
+						</div>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Isotopes</h1>
+						<div class="cols">
+							<div>$$^3_2\text{He}$$<img src="He3.svg"/></div>
+							<div>$$^4_2\text{He}$$<img src="He4.svg"/></div>
+						</div>
+					</section>
+
+					<section> 
+						<h1>Isotope <strong>fractionation</strong> records information!</h1>
+						<hr>
+						<table >
+							<tr><th>Type</th><th>Fractionates by...</th></tr>
+
+							<tr class="fragment"><td>Radiogenic</td><td>Radioactive decay</td></tr>
+							<tr class="fragment"><td>Stable</td><td>Environmental conditions</td></tr>
+						</table>
+					</section>
+
+					<section>
+						To reconstruct <strong>climate</strong> of the <strong>past</strong>, we can use <em>isotope ratios</em> of geologic material to infer the <strong>state of Earth systems</strong> and measure <strong>time</strong>
+					</section>
+
+				</section>
+
+				<section>
+					<section><h1 class="r-fit-text">Measuring time</h1></section>
+
+					<section data-auto-animate>
+						<h1>Radioactive Decay</h1>
+						<div class="cols">
+
+							<div>
+								<div>$$\frac{dN}{dt} = -\lambda N$$</div>
+								<div class="fragment">$$N = N_o e^{-\lambda t}$$</div>
+								<div class="fragment">$$n = N(e^{\lambda t} -1)$$</div>
+								<div class="cfoot"><a href="https://github.com/grahamedwards/geochronology-in-one-page/blob/main/age-equation.pdf">Geochronology in one page</a></div>
+							</div>
+
+							<div class="fragment">
+								<h5>Half-lifes and the decay constant ($\lambda$)</h5s>
+								<div>
+									\[\begin{aligned} t_{1/2} &amp;= \frac{ln(2)}{\lambda} \\\\ \lambda &amp;= \frac{ln(2)}{t_{1/2}}\end{aligned}\]
+								</div>
+							</div>
+							
+						</div>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Radioactive Decay</h1>
+						<img class="r-stretch" src="nN-halflife.svg"/>
+					</section>
+
+					<section>
+						<h1> Uranium-238</h1>
+						<img class="r-stretch" src="u238.svg"/>
+					</section>
+
+					<section>
+						<h1>The uranium decay series</h1>
+						<img class="r-stretch" src="U-series.svg"/>
+					</section>
+
+					<section>
+						<h1>Uranium-lead (U-Pb) and uranium-series chronometers</h1>
+						<img class="r-stretch" src="u-decays.svg"/>
+					</section>
+
+					<section>
+						<h1>Mass spectrometry</h1>
+						<img class="r-stretch" src="phoenix.jpg"/>
+						<div class="footer">X62 thermal ionization mass spectrometer &mdash; Keck Isotope Facility, University of California Santa Cruz</div>
+					</section>
+
+					<section>
+							<h1 class="r-fit-text"> Wait, this sounds pretty cool!</h1>
+							<h3 class="fragment">How did we figure out all of this rad stuff in the first place?</h3>
+
+							<div class="fragment">
+								<img class="r-stretch" src="https://th-thumbnailer.cdn-si-edu.com/g8UbQ0mcQYHmORJhVpaI9wbfqug=/631x300/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/Madame-Curie-Paris-631.jpg"/>
+								<h5>Maria Salomea Skłodowska-Curie</h5>
+								<div class="footer" style="text-align: center;">
+									(image credit: Smithsonian)
+							</div>
+						</section>
+
+					<section data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/95/TrinityDetonation1945GIF.gif">
+					</section>
+
+					<section>
+						<h1>A long, worrisome complicity of science in war</h1>
+						<div class="cols">
+						<div><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Manhattan_Project_emblem.png"/></div>
+						<div><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Trinity_shot_color.jpg"/></div>
+						<div><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Seal_of_the_Department_of_Energy.svg"/></div>
+						</div>
+						<div class="footer">
+							Wikimedia: 
+							<a href="https://commons.wikimedia.org/wiki/File:Manhattan_Project_emblem.png">Manhattan Project emblem</a> / 
+							<a href="https://commons.wikimedia.org/wiki/File:Trinity_shot_color.jpg">Trinity shot (J.W. Aeby, 1945)</a> / 
+							<a href="https://commons.wikimedia.org/wiki/File:Seal_of_the_Department_of_Energy.svg">DOE seal</a>
+						</div>
+					</section>
+
+				</section>
+				<section>
+
+					<section><h1 class="r-fit-text">Measuring climate of the past</h1></section>
+
+					<section data-auto-animate>
+						<h1 class="r-fit-text">Isotopes of oxygen (in water)</h1>
+						<h1>$\text{H}_2\text{O}$</h1>
+						<img class="r-stretch" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Water_molecule.svg"/>
+					</section>
+					
+					<section data-auto-animate>
+						<h1>Isotopes of oxygen (in water)</h1>
+						<div class="cols">
+							<div><h1>$^{16}\text{O}$</h1><img src="../media/oxygen-16.svg"/> <hr> 99.76% </div>
+							<div><h1>$^{17}\text{O}$</h1><img src="../media/oxygen-17.svg"/> <hr> 0.04%</div>
+							<div><h1>$^{18}\text{O}$</h1><img src="../media/oxygen-18.svg"/> <hr> 0.2%</div>
+						</div>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Isotopes of oxygen (in water)</h1>
+						$$\frac{^{18}\text{O}}{^{16}\text{O}} = 0.00200520 \pm 0.00000045 $$
+						<h1><strong>VSMOW</strong> &mdash; Vienna Standard Mean Ocean Water</h1>
+						</section>
+
+					<section data-auto-animate>
+						<h1>Isotopes of oxygen (in water)</h1>
+						$$\delta^{18}\text{O} = 1000\times \left(\frac{\frac{^{18}\text{O}}{^{16}\text{O}}_{sample}}{\frac{^{18}\text{O}}{^{16}\text{O}}_{standard}}-1\right)$$
+						<div><q>delta oxygen eighteen</q> = <q>dell-oh eighteen</q></div>
+						<div class="fragment">
+							$$\delta^{18}\text{O} \propto \frac{^{18}\text{O}}{^{16}\text{O}}$$
+						</div>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Evaporation &amp; precipitation &rarr; fractionation</h1>
+						
+						<img src="delO-ocean-only.svg"/>
+						<h1 class="fragment">What happens to oxygen isotopes when they evaporate?</h1>
+					</section>
+					<section data-auto-animate>
+						<h1>Evaporation &amp; precipitation &rarr; fractionation</h1>
+						<img src="delO-interglacial.svg"/>
+						<h1 class="fragment">What happens to the ocean?</h1>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Oceans &amp; ice sheets</h1>
+						<div class="cols">
+							<div><img src="delO-interglacial.svg"/></div>
+							<div><img src="delO-glacial.svg"/></div>	
+						</div>
+					</section>
+
+					<section data-auto-animate>
+						<h1>Oceans &amp; ice sheets</h1>
+						<div class="cols">
+							<div><img src="delO-interglacial.svg"/></div>
+							<div><img src="delO-glacial.svg"/></div>	
+							<div>
+								<ul>
+									<li> &uarr; ice &rarr; &uarr; &delta;<sup>18</sup>O </li>
+									<li> &darr; ice &rarr; &darr; &delta;<sup>18</sup>O </li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+					<section>
+						<h1>Deep sea (benthic) $\delta$<sup>18</sup>O over the last 2.5 million years</h1>
+						<img class="r-stretch" src="LR04.svg"/>
+						<div class="footer">Data: <a href="https://lorraine-lisiecki.com/stack.html">LR04 stack (Lisiecki & Raymo 2005)</a>, Figure: ghe</div>
+					</section>
+
+					<section>
+						<h1>Precipitation across landscapes</h1>
+						<img class="r-stretch" src="../week/8-paleoclimate/delO-precip.png"/>
+						<div class="lfoot"><a href="https://doi.org/10.1016/j.quascirev.2008.10.021">Lachniet, 2009</a></div>
+					</section>
+				</section>
+
+				<section>
+					<section><h1 class="r-fit-text">Reconstructing climate from caves</h1></section>
+					<section>
+						<h1>Karst caves</h1>
+						<div class="cols">
+							<div>
+								<h1>Formation</h1>
+								<ol>
+									<li>carbonate-rich bedrock</li>
+									<li class="fragment">water dissolves bedrock</li>
+									<li class="fragment">water drains &rarr; void</li>
+									<li class="fragment">water drips into void</li>
+									<li class="fragment">dissolved ions &rarr; carbonate</li>
+									<li class="fragment">speleothems grow</li>
+								</ol>
+							</div>
+							<div>
+								<img width="400px;" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Travertine_dripstone_%28Endless_Caverns%2C_Virginia%2C_USA%29_27_%2831247392446%29.jpg"/>
+								<div class="footer" style="text-align: right;"><a href="https://commons.wikimedia.org/wiki/File:Travertine_dripstone_%28Endless_Caverns,_Virginia,_USA%29_27_%2831247392446%29.jpg">Endless Caverns, VA, USA</a></div>
+						</div>
+					</section>
+
+					<section>
+						<h1>Speleothem studies</h1>
+						<img class="r-stretch" src="https://www.nps.gov/grba/learn/nature/images/dated-stalagmite.jpg"/>
+						<div class="footer"><a href="https://www.nps.gov/grba/learn/nature/speleothems-cave-formations.htm">National Park Service</a></div>
+					</section>
+
+					<section>
+						<h1>Hulu Cave, China</h1>
+						<div class="cols">
+							<div>
+								<img width="300px;" src="anahulu-cave-the-underground.jpg"/>
+								<div class="footer"><a href="https://www.tripadvisor.com/Attraction_Review-g2358095-d2328771-Reviews-or20-Anahulu_Cave_The_Underground_Swimming_Pool-Haveluliku_Tongatapu_Island.html">jokertrekker, Trip Advisor</a></div>
+							</div>
+							<div>
+								<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Asia_topic_image_Satellite_image.jpg"/>
+
+								<div class="footer" style="text-align: right;"><a href="https://commons.wikimedia.org/wiki/File:Asia_topic_image_Satellite_image.jpg">Wikimedia</a></div>
+							</div>
+						</div>
+					</section>
+
+					<section>
+						<img class="r-stretch" src="https://www.science.org/cms/10.1126/science.1064618/asset/f26784b5-4ea4-4346-b2c2-bc46e6fa304f/assets/graphic/se4810025001.jpeg"/>
+						<div class="footer"><a href="https://doi.org/10.1126/science.1064618">Wang+ 2001</a></div>
+					</section>
+
+					<section>
+						<h1>Global climate processes, recorded in one cave &hellip; how?</h1>
+						<img class="r-stretch" src="Npacific.png"/>
+					</section>
+
+					<section data-background-image="natural-bridge-caverns.jpg"></section>
+
+				</section>
+
+				<section>
+					<h1 class="r-fit-text">Questions?</h1>
+					<hr>
+					<h1 class="fragment">Shameless plug</h1>
+					<div class="cols">
+						<div class="fragment">
+							Did you find this interesting?
+						</div>
+						<div class="fragment">
+							Want to learn more?
+						</div>
+					</div>
+					<h1 class="fragment">Look for <strong>GEOS 3410 (Global Climate Change)</strong> in Fall 2027 (tentatively)</h1>
+				</section>
+			</div>
+		</div>
+
+		<script src="../revealjs/dist/reveal.js"></script>
+		<script src="../revealjs/plugin/notes/notes.js"></script>
+		<script src="../revealjs/plugin/markdown/markdown.js"></script>
+		<script src="../revealjs/plugin/highlight/highlight.js"></script>
+		<script src="../revealjs/plugin/math/math.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				width: 960,
+				height: 700,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
+			});
+			Reveal.configure({ pdfSeparateFragments: false });
+		</script>
+	</body>
+</html>
