@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="260.08011mm"
-   height="163.35712mm"
-   viewBox="0 0 260.08011 163.35712"
+   width="400mm"
+   height="251.24123mm"
+   viewBox="0 0 400 251.24123"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="0.68235822"
-     inkscape:cx="586.20237"
-     inkscape:cy="490.21173"
-     inkscape:window-width="1464"
-     inkscape:window-height="916"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:cx="586.93511"
+     inkscape:cy="489.47897"
+     inkscape:window-width="2032"
+     inkscape:window-height="1111"
+     inkscape:window-x="1346"
+     inkscape:window-y="53"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -38,66 +38,66 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(4.4692241,15.626277)">
+     transform="translate(4.4692238,15.626277)">
     <rect
        style="fill:#f9f9f9;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect4"
-       width="258.66901"
-       height="161.946"
-       x="-3.7636685"
-       y="-14.920721" />
+       width="398.5889"
+       height="249.83011"
+       x="-3.7636688"
+       y="-14.920722" />
     <rect
        style="fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect1"
-       width="57.321812"
-       height="35.42683"
-       x="11.293508"
-       y="44.299286" />
+       width="88.328468"
+       height="54.6521"
+       x="19.438272"
+       y="76.436523" />
     <rect
        style="fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect1-4"
-       width="57.321812"
-       height="35.42683"
-       x="140.85489"
-       y="44.299286" />
+       width="88.328468"
+       height="54.6521"
+       x="219.08232"
+       y="76.436523" />
     <rect
        style="fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect1-4-0"
-       width="57.321812"
-       height="35.42683"
-       x="76.074203"
-       y="73.301605" />
+       width="88.328468"
+       height="54.6521"
+       x="119.26031"
+       y="121.17769" />
     <rect
        style="fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect1-4-0-7"
-       width="57.321812"
-       height="35.42683"
-       x="140.85489"
-       y="100.89281" />
+       width="88.328468"
+       height="54.6521"
+       x="219.08232"
+       y="163.74197" />
     <rect
        style="fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect1-4-0-0"
-       width="57.321812"
-       height="35.42683"
-       x="11.293508"
-       y="100.89281" />
+       width="88.328468"
+       height="54.6521"
+       x="19.438272"
+       y="163.74197" />
     <g
        id="g3"
-       transform="translate(45.052804,-12.924574)"
-       style="display:inline;fill:#374845">
+       transform="matrix(1.5409225,0,0,1.5426754,71.45873,-11.841314)"
+       style="display:inline;fill:#374845;stroke-width:0.648593">
       <rect
-         style="fill:#374845;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+         style="fill:#374845;stroke:#000000;stroke-width:0.915239;stroke-linejoin:bevel;stroke-dasharray:none"
          id="rect2"
          width="46.429329"
          height="6.3380909"
          x="152.71782"
          y="19.617901" />
       <path
-         style="fill:#374845;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+         style="fill:#374845;stroke:#000000;stroke-width:0.915239;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 199.16112,25.950456 159.64558,48.597568"
          id="path2" />
       <ellipse
-         style="fill:#374845;stroke:none;stroke-width:1.41235;stroke-linejoin:bevel;stroke-dasharray:none"
+         style="fill:#374845;stroke:none;stroke-width:0.91604;stroke-linejoin:bevel;stroke-dasharray:none"
          id="path3"
          cx="117.15247"
          cy="117.02827"
@@ -105,7 +105,7 @@
          ry="0.59528369"
          transform="matrix(0.89158843,-0.45284664,0.50495341,0.8631466,0,0)" />
       <ellipse
-         style="fill:#374845;stroke:none;stroke-width:1.41235;stroke-linejoin:bevel;stroke-dasharray:none"
+         style="fill:#374845;stroke:none;stroke-width:0.91604;stroke-linejoin:bevel;stroke-dasharray:none"
          id="path3-1"
          cx="117.14926"
          cy="114.19514"
@@ -115,87 +115,94 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-       x="36.390812"
-       y="68.168404"
-       id="text1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;line-height:1;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="60.244659"
+       y="112.94577"
+       id="text1"
+       transform="scale(0.99943171,1.0005686)"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
-         x="36.390812"
-         y="68.168404">I</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
+         x="60.244659"
+         y="112.94577">I</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-       x="94.044312"
-       y="97.170692"
-       id="text1-5"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;line-height:1;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="153.33542"
+       y="157.66151"
+       id="text1-5"
+       transform="scale(0.99943171,1.0005686)"><tspan
          sodipodi:role="line"
          id="tspan1-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
-         x="94.044312"
-         y="97.170692">III</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
+         x="153.33542"
+         y="157.66151">III</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-       x="162.3886"
-       y="68.168404"
-       id="text1-5-8"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;line-height:1;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="256.60822"
+       y="112.94577"
+       id="text1-5-8"
+       transform="scale(0.99943171,1.0005686)"><tspan
          sodipodi:role="line"
          id="tspan1-8-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
-         x="162.3886"
-         y="68.168404">II</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
+         x="256.60822"
+         y="112.94577">II</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-       x="163.72804"
-       y="124.76186"
-       id="text1-5-8-4"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;line-height:1;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="255.26366"
+       y="200.20157"
+       id="text1-5-8-4"
+       transform="scale(0.99943171,1.0005686)"><tspan
          sodipodi:role="line"
          id="tspan1-8-1-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
-         x="163.72804"
-         y="124.76186">V</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
+         x="255.26366"
+         y="200.20157">V</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.46667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-       x="30.14418"
-       y="124.76186"
-       id="text1-5-4"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;line-height:1;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#333333;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="50.924175"
+       y="200.20157"
+       id="text1-5-4"
+       transform="scale(0.99943171,1.0005686)"><tspan
          sodipodi:role="line"
          id="tspan1-8-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
-         x="30.14418"
-         y="124.76186">IV</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
+         x="50.924175"
+         y="200.20157">IV</tspan></text>
     <rect
        style="fill:#ececec;stroke:#000000;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
        id="rect3"
-       width="151.20874"
-       height="6.4259634"
-       x="6.9417186"
-       y="6.693327" />
+       width="233.00095"
+       height="9.9131756"
+       x="12.732504"
+       y="18.422737" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-       x="205.02968"
-       y="4.5206542"
-       id="text3"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;line-height:1;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="311.09616"
+       y="15.062464"
+       id="text3"
+       transform="scale(0.99943171,1.0005686)"><tspan
          sodipodi:role="line"
          id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
-         x="205.02968"
-         y="4.5206542">Door</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
+         x="311.09616"
+         y="15.062464">Door</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
-       x="63.812347"
-       y="4.7283936"
-       id="text3-9"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;line-height:1;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="93.251587"
+       y="15.689032"
+       id="text3-9"
+       transform="scale(0.99943171,1.0005686)"><tspan
          sodipodi:role="line"
          id="tspan3-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
-         x="63.812347"
-         y="4.7283936">Board</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.1077px;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:1.41111"
+         x="93.251587"
+         y="15.689032">Board</tspan></text>
   </g>
 </svg>

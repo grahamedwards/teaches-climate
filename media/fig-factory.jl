@@ -37,10 +37,12 @@ dark_mode() = Theme( fontsize = 20,
 z, T, P, ρ = [-1.0, 0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 13.0, 15.0, 17.0, 20.0, 25.0, 30.0, 32.0, 35.0, 40.0, 45.0, 47.0, 50.0, 51.0, 60.0, 70.0, 71.0, 80.0, 84.9, 89.7, 100.4, 105.0, 110.0], [21.5, 15.0, 8.5, 2.0, -4.5, -11.0, -17.5, -24.0, -30.5, -37.0, -43.5, -50.0, -56.5, -56.5, -56.5, -56.5, -56.5, -51.5, -46.5, -44.5, -36.1, -22.1, -8.1, -2.5, -2.5, -2.5, -27.7, -55.7, -58.5, -76.5, -86.3, -86.3, -73.6, -55.5, -9.2], [113.92, 101.325, 89.874, 79.495, 70.108, 61.64, 54.019, 47.181, 41.06, 35.599, 30.742, 26.436, 22.632, 16.51, 12.044, 8.787, 5.475, 2.511, 1.172, 0.868, 0.559, 0.278, 0.143, 0.111, 0.076, 0.067, 0.02031, 0.00463, 0.00396, 0.00089, 0.00037, 0.00015, 2.0e-5, 1.0e-5, 1.0e-5], [1.347, 1.225, 1.1116, 1.0065, 0.9091, 0.8191, 0.7361, 0.6597, 0.5895, 0.5252, 0.4664, 0.4127, 0.3639, 0.2655, 0.1937, 0.1423, 0.088, 0.0395, 0.018, 0.0132, 0.0082, 0.0039, 0.0019, 0.0014, 0.001, 0.00086, 0.000288, 7.4e-5, 6.4e-5, 1.5e-5, 7.0e-6, 3.0e-6, 5.0e-7, 2.0e-7, 1.0e-7]
 
 # ╔═╡ c6414566-5cf0-48ca-ac65-8559ce6c01e0
-H = 287.053 * (273.15)/9.8
+
 
 # ╔═╡ c2f7b905-6b61-43ee-9830-636e8abc885b
 let
+
+	H = 287.053 * (273.15)/9.8
 	shared = (; xlabelsize=24, xticklabelsize=18, yminorgridvisible=true, xminorgridvisible=true, yticks=0:20:100, ylabelsize=24, yticklabelsize=18, yticksmirrored=true, yminorticks=IntervalsBetween(2),titlesize=18)
 	
 	f=Figure(size=(800,300))
@@ -59,16 +61,21 @@ let
 	scatterlines!(axT, T, z, color=:firebrick4,)
 
 	linkyaxes!(axp, axr, axT)
+	Makie.save("rho-P-z.svg",f)
 
 	for i=(axp, axr, axT)
-	#	hlines!(i, [11, 20], color=(:black, 0.3), linestyle=:dot )
+		hlines!(i, 12, color=(:black, .7), linestyle=:dash )
 	end
-
-	#text!(axr, "Troposphere: 11-20 km", position=(.3, 20))
-
-	Makie.save("rho-P-z.svg",f)
+	ylims!(nothing,35)
+	
+	text!(axp, "Tropopause ~ 12 km", position=(25, 13), fontsize=16)
+	Makie.save("rho-P-T-tropo.svg",f)
+	
 	f
 end
+
+# ╔═╡ e1236cbd-d83d-40aa-9850-a564e944cd7f
+
 
 # ╔═╡ b87c3625-4157-49b5-800b-07d0b4182073
 with_theme(dark_mode()) do
@@ -94,7 +101,7 @@ lines!(ax2,t,(No ./ N_(t)) .- 1, color=:seagreen1)
 #Label(f[0,1], "a.", halign=:left,tellwidth=false, tellheight=true, font=:bold, fontsize=22)
 #Label(f[0,2], "b.", font=:bold, halign=:left,fontsize=22,tellwidth=false, tellheight=true)
 #rowsize!(f.layout,0,Relative(1/100))
-Makie.save("../envi1301/nN-halflife.svg",f)
+Makie.save("../caves/nN-halflife.svg",f)
 f
 end
 
@@ -145,7 +152,7 @@ with_theme(dark_mode()) do
 	vlines!(ax2,71, linestyle=:dash, color=:white, label="Time since last\n ice age began")
 	axislegend(ax2, framevisible=false, position=(1,0), labelsize=18)
 	
-	Makie.save("../envi1301/u-decays.svg",f)
+	Makie.save("../caves/u-decays.svg",f)
 	f
 end
 
@@ -1668,6 +1675,7 @@ version = "4.1.0+0"
 # ╠═1e65e687-75c8-43ce-811b-a88c102f78d6
 # ╠═c6414566-5cf0-48ca-ac65-8559ce6c01e0
 # ╠═c2f7b905-6b61-43ee-9830-636e8abc885b
+# ╠═e1236cbd-d83d-40aa-9850-a564e944cd7f
 # ╠═b87c3625-4157-49b5-800b-07d0b4182073
 # ╠═a608fa69-f8b4-4618-ab09-caa99e6b6430
 # ╠═d5b87e70-d97a-43ae-9de4-3a57746ba765
