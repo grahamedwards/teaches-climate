@@ -16,15 +16,6 @@
 .reveal body{font-size:30px;text-align:left;}
 .reveal p{font-size: 30px;text-align:left;}
 
-.footer{
-	position: static;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	text-align: left;
-	font-size: 1ex;
-}
-
 .lfoot{
 	position: static;
 	left: 0;
