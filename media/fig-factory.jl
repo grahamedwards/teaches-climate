@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.20.17
+# v0.20.19
 
 using Markdown
 using InteractiveUtils
@@ -57,7 +57,7 @@ let
 	lines!(axp, 101.325 .* exp.(-1000z ./ H), z, linewidth=2, color=:goldenrod3)
 	scatter!(axp, P, z, color=(:goldenrod3, .5))
 	
-	axT = Axis(f[1,3]; shared..., title="Temperature", xlabel="T (K)", xticks=-80:40:0, xminorticks=IntervalsBetween(4), )
+	axT = Axis(f[1,3]; shared..., title="Temperature", xlabel="T (°C)", xticks=-80:40:0, xminorticks=IntervalsBetween(4), )
 	scatterlines!(axT, T, z, color=:firebrick4,)
 
 	linkyaxes!(axp, axr, axT)
@@ -172,7 +172,7 @@ CairoMakie = "~0.15.4"
 PLUTO_MANIFEST_TOML_CONTENTS = """
 # This file is machine-generated - editing it directly is not advised
 
-julia_version = "1.11.6"
+julia_version = "1.11.7"
 manifest_format = "2.0"
 project_hash = "b3789e5429b1c20b679d601d0518b8269b984593"
 
