@@ -17,7 +17,7 @@
 .reveal p{font-size: 30px;text-align:left;}
 
 :root {
-    --r-heading-font: Sans Pro, Helvetica, sans-serif;
+    --r-heading-font: 'Source Sans Pro', Helvetica, sans-serif;
 }
 
 .lfoot{
