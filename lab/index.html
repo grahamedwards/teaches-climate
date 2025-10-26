@@ -25,8 +25,8 @@
 
 					<ol>
 						<li><a href="#zine">Zine Project</a></li>
-						<li><a href="#ice-core">Ice cores</a></li>
 						<li><a href="#isotope-mass-balance">Isotope mass balance</a></li>
+						<li><a href="#ice-core">Ice cores</a></li>
 					</ol>
 				</section>
 
@@ -242,6 +242,112 @@
 						</div>
 					</section>
 				</section>
+
+
+				<!-- ------------------------------------------------ -->
+				<!-- ------------------------------------------------ -->
+				<!-- ------------------------------------------------ -->
+
+
+				<section id="isotope-mass-balance">
+					<section data-background-image="https://www.ligo.caltech.edu/system/avm_image_sqls/binaries/96/large/artist_NSIllustration_CREDIT__NSF_LIGO_Sonoma_State_University_A._Simonnet.jpg" data-background-opacity=".8">
+						<h1 class="r-fit-text">Isotope mass balance</h1>
+					</section>
+
+					<section>
+						<h1>Reconstructing the PETM</h1>
+
+						<div >Where does the isotopically light C come from?</div>
+						<img class="r-stretch" src="../media/petm.svg"/>
+						<div class="lfoot">Data from: <a href="https://www.science.org/doi/10.1126/science.1059412">Zachos+ 2001</a>, dates corrected after <a href="https://doi.org/10.1038/s41467-022-33390-x">Li+ 2022</a></div>
+					</section>
+
+					<section>
+						<div class="cols">
+							<div>
+								<h2>The Carbon Isotope Excursion (CIE)</h2>
+								Varies from site to site
+								<hr>
+								<h5>On average, &Delta;&delta;<sup>13</sup>C= <span class="fragment">&minus;4&permil;</span></h5>
+							</div>
+							<div >
+								<img height="600px" src="cie.jpg"/>
+							</div>
+						</div>
+						<div class="lfoot"><a href="https://doi.org/10.1016/j.marmicro.2018.12.001">Livsey+ 2019</a></div>
+					</section>
+
+					<section>
+						<h5>&Delta;&delta;<sup>13</sup>C<sub>CIE</sub>= &minus;4&permil;</h5>
+						<h1>Volcanism?</h1>
+						<h5>🌋 &delta;<sup>13</sup>C<sub>volc</sub>= &minus;8&permil; 🌋</h5>
+						<img class="r-stretch" src="https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/Augustine_volcano_1_24_06_Cyrus_Read.jpg"/>
+						<div class="lfoot"><a href="https://www.usgs.gov/media/images/a-gas-plume-arising-augustine-volcano-during-its-eruptive-phase-2005-06">USGS</a></div>
+
+					</section>
+
+					<section>
+						<h5>&Delta;&delta;<sup>13</sup>C<sub>CIE</sub>= &minus;4&permil;</h5>
+						<h1> (Marine) organic carbon?</h1>
+						<h5>🦠 &delta;<sup>13</sup>C<sub>org-C</sub>= &minus;24&permil; 🦠</h5>
+						<img class="r-stretch" src="https://oceanservice.noaa.gov/facts/phytoplankton.jpg"/>
+						<div>Oxidation (org-C &rarr; CO<sub>2</sub>) of a dried sea/marine basin</div>
+						<div class="lfoot"><a href="https://oceanservice.noaa.gov/facts/phyto.html">NOAA</a></div>
+
+					</section>
+
+					<section>
+						<h5>&Delta;&delta;<sup>13</sup>C<sub>CIE</sub>= &minus;4&permil;</h5>
+						<h1>Methane</h1>
+						<h5>🧊 &delta;<sup>13</sup>C<sub>CH<sub>4</sub>= &minus;60&permil; 🧊</h5>
+						<div class="cols">
+							<div><h5>Clathrate</h5>(CH<sub>4</sub> within H<sub>2</sub>O ice)<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Gashydrat_im_Sediment.JPG"/></div>
+							<div><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Gashydrat_mit_Struktur.jpg"/></div>
+							<div><h5>Permafrost</h5><img src="https://d2pn8kiwq2w21t.cloudfront.net/images/Permafrost_USGS-16.width-1320.jpg"/></div>
+						</div>
+					</section>
+
+					<section>
+						<h1>Isotope Mass Balance</h1>
+
+						For &delta;<sup>13</sup>C values $\delta$ and reservoir masses $M$ for reservoirs $A,B,\dots$
+						$$\delta_A~M_A + \delta_B ~ M_B + \dots = \delta_{total} ~ M_{total}$$
+						$$ where~M_{total} = M_A + M_B + \dots$$
+
+						<table class="ctab fragment">
+							<tr><th>Reservoir</th><th>Mass (GtC)</th><th>&delta;<sup>13</sup>C (&permil;)</th></tr>
+							<tr><th>Biomass</th><td>600</td><td>&minus;24</td></tr>
+							<tr><th>Atmosphere</th><td>800</td><td>&minus;6</td></tr>
+							<tr><th>Marine carbonate</th><td>40,000</td><td>&plus;1</td></tr>
+						</table>
+						<hr>
+						<h5 class="fragment">What is the combined &delta;<sup>13</sup>C of the surficial C reservoirs? &delta;<sub>t</sub> = &hellip;</h5>
+					</section>
+
+					<section>
+						<h1>Isotope Mass Balance</h1>
+						<div>How much C ($M_*$) would each source need to release to reproduce the CIE?</div>
+
+						
+						<div class="fragment">$$\delta_*~M_* + \delta_t ~ M_t = (\delta_t-4&permil;) ~ (M_t + M_*) $$</div>
+
+						<table>
+							<tr><th>Source ($*$)</th><th>&delta;<sup>13</sup>C (&permil;)</th></tr>
+							<tr><td>🌋 volcanoes 🌋</td><td>&minus; 8</td></tr>
+							<tr><td> 🦠 marine organic C 🦠</td><td>&minus;24</td></tr>
+							<tr><td>🧊 methane (clathrates/permafrost) 🧊</td><td>&minus;60</td></tr>
+						</table>
+					</section>
+
+				</section>
+				
+
+
+				<!-- ------------------------------------------------ -->
+				<!-- ------------------------------------------------ -->
+				<!-- ------------------------------------------------ -->
+
+
 				<section>
 					<section data-auto-animate data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7c/Wostok-Station_core32.jpg" id="ice-core">
 						<h1 class="r-fit-text">Vostok Ice Core</h1>
@@ -270,13 +376,6 @@
 					<section>
 						<img class="r-stretch" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0172-5/MediaObjects/41586_2018_172_Fig1_HTML.jpg">
 						<div class="lfoot"><a href=" https://doi.org/10.1038/s41586-018-0172-5">Brook+Buizert 2018</a></div>
-					</section>
-				</section>
-
-				<section id="isotope-mass-balance">
-					<section>
-						<h1>Isotope mass balance</h1>
-						<h1>slides coming soon</h1>
 					</section>
 				</section>
 
