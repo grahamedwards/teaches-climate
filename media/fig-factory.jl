@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.20.19
+# v0.20.20
 
 using Markdown
 using InteractiveUtils
@@ -185,6 +185,87 @@ let
 	f
 end
 
+# ╔═╡ 9c8e2313-ff71-472a-849a-29709fe13c84
+md"# Zachos plots"
+
+# ╔═╡ 8229d4c8-6230-426e-87ee-ed819200af32
+function numnan(x::Vector)
+    o = Vector{Float64}(undef,length(x))
+    @inbounds for i = eachindex(x)
+        xi = x[i]
+        o[i] = ifelse(xi isa Number, xi, NaN)
+    end
+    o
+end
+
+# ╔═╡ 0861d36e-04f5-4ca1-ad82-907897f00cce
+function runmean(x::Vector, n::Int)
+    o = fill(NaN,length(x))
+    hnh = cld(n,2)
+    hnl = hnh-1
+    
+	@inbounds for i = hnh:length(x)-hnh
+
+		xv = view(x, i-hnl:i+hnl)
+
+		nnm = nm = 0
+		@inbounds @simd for i = eachindex(xv)
+			xisnan = isnan(xv[i])
+			nm += ifelse(xisnan, 0, xv[i])
+			nnm += ifelse(xisnan, 0, 1)
+		end
+        o[i]= nm/nnm
+    end
+    o
+end
+
+# ╔═╡ 642521ca-7d11-4634-ba26-dfb573bfa222
+begin
+	zachos = readdlm("zachos.csv", ',')
+	
+	age = numnan(zachos[2:end,2])
+	
+	delO = numnan(zachos[2:end,4])
+	delC = numnan(zachos[2:end,5])
+end
+
+# ╔═╡ a46c103e-4e02-4b18-aea6-a939019ad227
+let 
+    f = Figure(size=(800,400))
+    	ax = Axis(f[1,1], yreversed=true, xreversed=true, ylabelsize=24, yticklabelsize=22, xlabelsize=24, xticklabelsize=22, xlabel="Age (Ma)", ylabel="Benthic δ¹⁸O (‰)")
+    lines!(ax,age, runmean(delO,20), color=:black, linewidth=2)
+    save("zachos-ox.svg",f)
+    f
+end
+
+# ╔═╡ 01c586ba-1015-466f-a4e6-09be816bff54
+let 
+	kw = (; yreversed=true, xreversed=true, ylabelsize=24, yticklabelsize=20, xlabelsize=24, xticklabelsize=20,)
+    petm=14550:14700
+    ac = age[petm] .+ 0.8
+    f = Figure(size=(600,500))
+    ax1 = Axis(f[1,1]; kw..., ylabel="Age (Ma)", xlabel="Benthic δ¹⁸O (‰)")
+    ax2 = Axis(f[1,2]; kw..., yticklabelsvisible=false, yticksvisible=false, xlabel="Benthic δ¹³C (‰)")
+    lines!(ax1,runmean(delO[petm],20),ac,color=:black, linewidth=2)
+    lines!(ax2,runmean(delC[petm],20), ac,color=:black, linewidth=2)
+    save("petm.svg",f)
+    f
+end
+
+# ╔═╡ bb26c787-f359-4a85-b315-324f15aec190
+let 
+	kw = (; yreversed=true, xreversed=true, ylabelsize=24, yticklabelsize=20, xlabelsize=24, xticklabelsize=20, yminorgridvisible=true, yminorticks=IntervalsBetween(5))
+    petm=14585:14655
+    ac = age[petm] .+ 0.8
+    f = Figure(size=(600,500))
+    ax1 = Axis(f[1,1]; kw..., ylabel="Age (Ma)", xlabel="Benthic δ¹⁸O (‰)")
+    ax2 = Axis(f[1,2]; kw..., xlabel="Benthic δ¹³C (‰)", yticksvisible=false, yticklabelsvisible=false)
+    lines!(ax1,runmean(delO[petm],20),ac,color=:black, linewidth=2)
+    lines!(ax2,runmean(delC[petm],20), ac,color=:black, linewidth=2)
+    save("petm-zoom.svg",f)
+    f
+end
+
 # ╔═╡ Cell order:
 # ╠═c6ac4680-7df6-11f0-1c46-a372ada2784f
 # ╟─39aae521-e376-487b-bc06-6862558361fe
@@ -196,3 +277,10 @@ end
 # ╠═a608fa69-f8b4-4618-ab09-caa99e6b6430
 # ╠═d5b87e70-d97a-43ae-9de4-3a57746ba765
 # ╠═86c37f67-4ca0-43cb-a39e-05f2c20ba3ca
+# ╟─9c8e2313-ff71-472a-849a-29709fe13c84
+# ╠═8229d4c8-6230-426e-87ee-ed819200af32
+# ╠═0861d36e-04f5-4ca1-ad82-907897f00cce
+# ╠═642521ca-7d11-4634-ba26-dfb573bfa222
+# ╠═a46c103e-4e02-4b18-aea6-a939019ad227
+# ╠═01c586ba-1015-466f-a4e6-09be816bff54
+# ╠═bb26c787-f359-4a85-b315-324f15aec190
